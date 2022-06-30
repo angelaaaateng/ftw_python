@@ -32,7 +32,7 @@
   - 5.5 Passing an Arbitrary Number of Arguments 
 6. If statements  
 7. While loops 
-8. More Functions 
+8. More Functions (Python 6 - note that we didn't get through all of this in class, so please do review in your own time)
 
 A. Appendix
  - A.1 Variable Naming Conventions
