@@ -43,8 +43,16 @@ A. Appendix
 ---
 
 1. Quick Review 
-  2. Dictionaries (any additional questions, a few exercies)
-  3. More Functions (any additional questions, a few exercies)
+  - 1.1. Dictionaries (any additional questions, a few exercies)
+  - 1.2. More Functions (any additional questions, a few exercies)
+2. File IO
+3. Terminal Applications 
+4. Try/Except 
+5. Sets, Math, Dates, and Assorted Important Functions 
+6. Numpy
+7. Pandas. 
+8. Matplotlib
+9. More Data Science Functions
 
 
 ## References: 
