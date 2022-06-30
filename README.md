@@ -46,8 +46,8 @@ A. Appendix
   - 1.1. Dictionaries (any additional questions, a few exercies)
   - 1.2. More Functions (any additional questions, a few exercies)
 2. File IO
-3. Terminal Applications 
-4. Try/Except 
+3. Try/Except Error Handling
+4. Terminal Applications 
 5. Sets, Math, Dates, and Assorted Important Functions 
 6. Numpy
 7. Pandas. 
