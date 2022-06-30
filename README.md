@@ -3,9 +3,9 @@
 
 # Introduction to Python 
 ## FTW Foundation
-June 25, 2022 - Day 1 
+**June 25, 2022 - Day 1**
 
-## Outine: 
+## Day 1 Outine: 
 ---
 1. Hello, World
 2. Python Basics
@@ -23,7 +23,7 @@ June 25, 2022 - Day 1
     - Making numerical lists
     - working with part of a list
  - 4.2 Tuples 
- - 4.3 Dictionaries 
+ - 4.3 Dictionaries (Notebook #5)
 5. Functions 
   - 5.1 Defining a Function
   - 5.2 Passing Arguments 
@@ -32,6 +32,7 @@ June 25, 2022 - Day 1
   - 5.5 Passing an Arbitrary Number of Arguments 
 6. If statements  
 7. While loops 
+8. More Functions 
 
 A. Appendix
  - A.1 Variable Naming Conventions
@@ -42,3 +43,4 @@ A. Appendix
 ## References: 
 ---
 - <a href='https://ehmatthes.github.io/pcc/index.html'>Python Crash Course</a>
+- Last year's Python <a href='https://github.com/ogbinar/python101/tree/master/notebooks'>Course</a>
