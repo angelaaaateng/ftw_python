@@ -58,4 +58,5 @@ A. Appendix
 ## References: 
 ---
 - <a href='https://ehmatthes.github.io/pcc/index.html'>Python Crash Course</a>
+- <a href='https://jakevdp.github.io/PythonDataScienceHandbook/'>Python Data Science Handbook</a>
 - Last year's Python <a href='https://github.com/ogbinar/python101/tree/master/notebooks'>Course</a>
