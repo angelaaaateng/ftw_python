@@ -5,7 +5,7 @@
 ## FTW Foundation
 **June 25, 2022 - Day 1**
 
-## Day 1 Outine: 
+## Day 1 Outine: Python Basics
 ---
 1. Hello, World
 2. Python Basics
@@ -38,6 +38,13 @@ A. Appendix
  - A.1 Variable Naming Conventions
  - A.2 The Zen of Python
 
+
+## Day 2 Outline: Python for Data Science
+---
+
+1. Quick Review 
+  2. Dictionaries (any additional questions, a few exercies)
+  3. More Functions (any additional questions, a few exercies)
 
 
 ## References: 
