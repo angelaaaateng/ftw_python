@@ -50,7 +50,7 @@ A. Appendix
 4. Terminal Applications 
 5. Sets, Math, Dates, and Assorted Important Functions 
 6. Numpy
-7. Pandas. 
+7. Pandas 
 8. Matplotlib
 9. More Data Science Functions
 
