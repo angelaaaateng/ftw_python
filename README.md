@@ -1,12 +1,11 @@
 # ftw_python
- Repo for FTW Foundation Python Course (Day 1)
+## FTW Foundation
+ Repo for FTW Foundation Python Course (Day 1 and Day 2) and Python for Machine Learning (Day 3 and Day 4)
 
 # Introduction to Python 
-## FTW Foundation
-**June 25, 2022 - Day 1**
-
-## Day 1 Outine: Python Basics
 ---
+## Day 1 Outine: Python Basics
+
 1. Hello, World
 2. Python Basics
 3. Variables
@@ -40,8 +39,6 @@ A. Appendix
 
 
 ## Day 2 Outline: Python for Data Science
----
-
 1. Quick Review 
   - 1.1. Dictionaries (any additional questions, a few exercies)
   - 1.2. More Functions (any additional questions, a few exercies)
@@ -54,6 +51,32 @@ A. Appendix
 8. Matplotlib
 9. More Data Science Functions
 
+# Introduction to Machine Learning
+---
+## Day 1: Core ML Concepts 
+- Statistics vs Machine Learning
+- What is Machine Learning? 
+- What is a good model?
+- Contextualizing ML Approaches
+  - Defining an ML Problem
+  - The Analytics Process
+  - Model Development Workflow
+- Basic ML Concepts
+  - Features vs Label / Target Variables
+  - Domain Expertise
+  - Feature Engineering
+  - Train / Test Split
+  - Baseline Model
+  - Algorithms
+  - Champion Model
+  - Model Maintenance
+- Code Sections
+  - Feature Engineering
+  - Regression 
+  - Classification 
+  - Clustering
+  - Modeling Techniques 
+
 
 ## References: 
 ---
@@ -61,3 +84,4 @@ A. Appendix
 - <a href='https://jakevdp.github.io/PythonDataScienceHandbook/'>Python Data Science Handbook</a>
 - Last year's Python <a href='https://github.com/ogbinar/python101/tree/master/notebooks'>Course</a>
 - Google's Guide to <a href='https://developers.google.com/machine-learning/crash-course/ml-intro'>Machine Learning</a>
+- <a href='https://docs.google.com/presentation/d/1UmeNA5Dpigekp8Vsy_GHeRV4LGaL9lK4pmMpq-tveLQ/edit?usp=sharing'>ML Slides</a> created for FTW 
