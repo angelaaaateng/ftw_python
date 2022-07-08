@@ -85,3 +85,5 @@ A. Appendix
 - Last year's Python <a href='https://github.com/ogbinar/python101/tree/master/notebooks'>Course</a>
 - Google's Guide to <a href='https://developers.google.com/machine-learning/crash-course/ml-intro'>Machine Learning</a>
 - <a href='https://docs.google.com/presentation/d/1UmeNA5Dpigekp8Vsy_GHeRV4LGaL9lK4pmMpq-tveLQ/edit?usp=sharing'>ML Slides</a> created for FTW 
+- <a href='https://www.statlearning.com/'>An Introduction to Statistical Learning </a>
+- <a href='https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp'>Udemy Course by Jose Portilla</a>
