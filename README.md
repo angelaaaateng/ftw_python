@@ -87,3 +87,4 @@ A. Appendix
 - <a href='https://docs.google.com/presentation/d/1UmeNA5Dpigekp8Vsy_GHeRV4LGaL9lK4pmMpq-tveLQ/edit?usp=sharing'>ML Slides</a> created for FTW 
 - <a href='https://www.statlearning.com/'>An Introduction to Statistical Learning </a>
 - <a href='https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp'>Udemy Course by Jose Portilla</a>
+- FTW Course <a href='https://docs.google.com/spreadsheets/d/1bpSy1bKs6Om6uFBQOjStkybOru8BF9XiSQqq7rE52Tc/edit#gid=1162388120'>Syllabus</a>
