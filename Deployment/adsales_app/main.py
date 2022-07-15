@@ -13,7 +13,7 @@ app = FastAPI()
 
 
 # Load model using joblib
-saved_model = joblib.load('../adsales_app/adsales_linearregression.mdl')
+saved_model = joblib.load('adsales_linearregression.mdl')
 
 
 @app.get("/")
@@ -29,3 +29,7 @@ def read_root():
 def read_item(tv_cost:int=150, radio_cost:int= 25,news_cost:int=125):
     predicted_sales = saved_model.predict([[tv_cost, radio_cost, news_cost]])[0]
     return {"predict_sales": "Predicted sales is "+str(predicted_sales*1000)+" dollars."}
+
+
+
+##python -m uvicorn main:app --reload
