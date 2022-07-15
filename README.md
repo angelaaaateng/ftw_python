@@ -53,7 +53,7 @@ A. Appendix
 
 # Introduction to Machine Learning
 ---
-## Day 1: Core ML Concepts 
+## Day 3: Core ML Concepts 
 - Statistics vs Machine Learning
 - What is Machine Learning? 
 - What is a good model?
@@ -76,6 +76,18 @@ A. Appendix
   - Classification 
   - Clustering
   - Modeling Techniques 
+
+---
+## Day 4: Development to Deployment  
+- Code Sections
+  - Classification 
+  - Clustering
+  - Modeling Techniques 
+- Deployment Methods and Frameworks 
+  - Streamlit
+  - FastAPI
+
+
 
 
 # References: 
