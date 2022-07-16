@@ -7,7 +7,7 @@ import joblib
 from sklearn.linear_model import LinearRegression 
 
 
-# Import Seaborn
+# Import Streamlit
 import streamlit as st
 
 # Title of your Web App
