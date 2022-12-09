@@ -1,0 +1,1000 @@
+﻿Country Name,Country Code,Series Name,Series Code,2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020]
+Brunei Darussalam,BRN,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,..
+Brunei Darussalam,BRN,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100,..
+Brunei Darussalam,BRN,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100,..
+Brunei Darussalam,BRN,Individuals using the Internet (% of population),IT.NET.USER.ZS,53,56,60.27306504,64.5,68.77,71.2,90,94.86669164,95,95,..
+Brunei Darussalam,BRN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,148.524,149.579,128.234,127.595004,115.389,115.147,124.259,132.612,129.352,122.45694,..
+Brunei Darussalam,BRN,"Air transport, passengers carried",IS.AIR.PSGR,1263270,1312935,1044170,1139784,1061148,1150003,1168609,1172201,1234455,1421313,..
+Brunei Darussalam,BRN,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,12333,11672,10374,10920,10392,11624,11058,10743,11310,14091,..
+Brunei Darussalam,BRN,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.70464135,7.167785235,6.183206107,9.291231259,6.413670661,..,..,..,..,..,..
+Brunei Darussalam,BRN,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ,..,..,..,..,..,..,2.747727,..,2.46,..,..
+Brunei Darussalam,BRN,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS,..,..,..,..,..,..,98.76635742,..,..,..,..
+Brunei Darussalam,BRN,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS,..,..,..,..,..,..,95.88538361,..,..,..,..
+Brunei Darussalam,BRN,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS,..,..,..,..,..,..,97.44892883,..,..,..,..
+Brunei Darussalam,BRN,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,..,10.53744984,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,..,11.72811985,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,..,11.11402988,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,..,..,..,..,85.48999786,..,..,81.91000366,84.12000275,81.37999725,..
+Brunei Darussalam,BRN,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,5.302080154,9.182189941,9.726420403,..,9.984600067,..,11.44194984,..,..,..,..
+Brunei Darussalam,BRN,"Preprimary education, duration (years)",SE.PRE.DURS,3,3,3,3,3,3,3,3,3,3,..
+Brunei Darussalam,BRN,"Primary education, duration (years)",SE.PRM.DURS,6,6,6,6,6,6,6,6,6,6,6
+Brunei Darussalam,BRN,"Primary education, pupils",SE.PRM.ENRL,44215,43767,42753,42090,41078,40397,40471,39610,39472,39236,..
+Brunei Darussalam,BRN,"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS,48.29809,48.37663,48.38725,48.56498,48.65135,48.49122,48.43962,48.40192,48.56861,..,..
+Brunei Darussalam,BRN,"Primary education, teachers",SE.PRM.TCHR,3896,3861,4038,4146,4004,4033,3969,3890,3989,4014,..
+Brunei Darussalam,BRN,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,75.92401886,75.83528137,75.7305603,76.74867249,76.69830322,77.31217194,77.55101776,77.48072052,77.78891754,78.07672882,..
+Brunei Darussalam,BRN,"Secondary education, duration (years)",SE.SEC.DURS,7,7,7,7,7,7,7,7,7,7,7
+Brunei Darussalam,BRN,"Secondary education, general pupils",SE.SEC.ENRL.GC,44806,45626,46432,44877,43387,41735,40731,39992,38822,..,..
+Brunei Darussalam,BRN,"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS,49.24117,48.57976,48.32874,48.84685,48.64821,48.98287,49.056,49.31736,49.21436,..,..
+Brunei Darussalam,BRN,"Secondary education, pupils",SE.SEC.ENRL,48724,49916,52396,51738,49009,47249,45589,44464,44079,42679,..
+Brunei Darussalam,BRN,"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS,48.58181,48.1549,48.47507,48.63157,48.12994,48.346,48.6828,48.92047,48.99839,..,..
+Brunei Darussalam,BRN,"Secondary education, teachers",SE.SEC.TCHR,..,5023,5192,5304,5359,5347,5323,5101,5331,5222,..
+Brunei Darussalam,BRN,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,..,65.29962158,65.79353333,66.76094055,66.78485107,67.88854218,67.68739319,68.61399841,68.29862976,69.18804932,..
+Brunei Darussalam,BRN,"Secondary education, teachers, female",SE.SEC.TCHR.FE,..,3280,3416,3541,3579,3630,3603,3500,3641,3613,..
+Brunei Darussalam,BRN,"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,..,..,..,..,15.43999958,..,..,19.98999977,18.62999916,18.60000038,..
+Brunei Darussalam,BRN,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,..,..,..,..,17.20000076,..,..,19.96999931,20.71999931,20.09000015,..
+Brunei Darussalam,BRN,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,..,..,..,..,4.579999924,..,..,7.480000019,8.760000229,6.190000057,..
+Brunei Darussalam,BRN,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,..,..,..,..,4.900000095,..,..,8.210000038,10.88000011,7.579999924,..
+Brunei Darussalam,BRN,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2.27826118,1.86409724,1.85097218,1.898314,1.91436803,2.38708901,2.54828691,2.27036428,2.41291642,..,..
+Brunei Darussalam,BRN,Number of people pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP1.TO,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Number of people pushed below the $3.20 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP2.TO,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.10.TO,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.25.TO,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,8.26134872,8.47186852,8.85192871,9.40742016,7.33459949,4.97357655,4.97981548,5.41142321,4.85925293,..,..
+Brunei Darussalam,BRN,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.7,9.8,10,10.2,10.4,10.6,10.8,11,11.2,11.4,..
+Brunei Darussalam,BRN,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,8.8,8.9,9,9.2,9.3,9.5,9.7,9.9,10.1,10.2,..
+Brunei Darussalam,BRN,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,10.6,10.7,10.9,11.1,11.4,11.6,11.8,12.1,12.3,12.6,..
+Brunei Darussalam,BRN,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,1.3,1.9,2.1,1.8,1.8,1.9,2.6,3.3,3.1,2.7,..
+Brunei Darussalam,BRN,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,0.7,0,0.6,1.1,1.4,0.7,0.5,0.8,0.8,0.8,..
+Brunei Darussalam,BRN,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,1.8,3.7,3.5,2.4,2.2,2.9,4.4,5.6,5.3,4.4,..
+Brunei Darussalam,BRN,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS,62.09999847,62.02000046,61.88999939,61.70999908,61.43999863,60.79999924,60.11000061,59.36000061,60.79000092,60.24000168,58.56999969
+Brunei Darussalam,BRN,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,..,..,..,..,67.93000031,..,..,62.83000183,67.12999725,68.19000244,..
+Brunei Darussalam,BRN,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,..,..,..,..,61.04999924,..,..,56.88000107,59.70999908,59.95000076,..
+Brunei Darussalam,BRN,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,96.34904195,96.34904195,96.34904195,96.34904195,96.34904195,96.34904195,..,..,..,..,..
+Brunei Darussalam,BRN,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,25.95909903,25.46813721,25.10244643,24.80138272,24.47671737,24.0887717,23.88351596,23.49595852,23.02646149,22.61652261,..
+Brunei Darussalam,BRN,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,8.044081527,7.943340385,8.024846522,8.198688553,8.324022871,8.314954501,8.440945891,8.252238049,7.862577612,7.457041008,..
+Brunei Darussalam,BRN,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,8.131868132,7.997620351,8.080592525,8.272424737,8.422106569,8.440071125,8.581783879,8.402821063,8.020635167,7.619747113,..
+Brunei Darussalam,BRN,"Population ages 0-14, female",SP.POP.0014.FE.IN,48853,48472,48407,48505,48543,48427,48587,48338,47881,47512,..
+Brunei Darussalam,BRN,"Population ages 0-14, male",SP.POP.0014.MA.IN,52038,51793,51751,51799,51753,51520,51677,51399,50894,50478,..
+Brunei Darussalam,BRN,"Population ages 0-14, total",SP.POP.0014.TO,100889,100265,100156,100302,100298,99946,100263,99734,98775,97994,..
+Brunei Darussalam,BRN,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,70.65118385,71.04763163,71.30522395,71.48046219,71.64719635,71.8373033,71.8158647,71.93625979,72.10039094,72.17466564,..
+Brunei Darussalam,BRN,"Population ages 15-64, female",SP.POP.1564.FE.IN,132350,134475,136390,138205,140039,141948,143541,145440,147441,149223,..
+Brunei Darussalam,BRN,"Population ages 15-64, male",SP.POP.1564.MA.IN,142232,145226,148106,150878,153549,156109,157945,159907,161844,163501,..
+Brunei Darussalam,BRN,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,6455,6725,7009,7324,7715,8195,8759,9418,10167,10998,..
+Brunei Darussalam,BRN,"Population ages 65 and above, total",SP.POP.65UP.TO,13174,13717,14333,15037,15883,16903,18054,19389,20904,22569,..
+Brunei Darussalam,BRN,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,6718,6997,7326,7710,8170,8708,9291,9971,10735,11574,..
+Brunei Darussalam,BRN,Population growth (annual %),SP.POP.GROW,1.227117263,1.288981384,1.337513016,1.352256699,1.313717171,1.246081245,1.172400865,1.10699921,1.051993743,1.002737318,..
+Brunei Darussalam,BRN,Population in largest city,EN.URB.LCTY,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Urban population,SP.URB.TOTL,291333,296486,301859,307348,312785,318080,323204,328169,332999,337711,..
+Brunei Darussalam,BRN,Rural population,SP.RUR.TOTL,97313,97202,97130,97073,96984,96827,96596,96304,95963,95574,..
+Brunei Darussalam,BRN,"Population, total",SP.POP.TOTL,388646,393688,398989,404421,409769,414907,419800,424473,428962,433285,..
+Brunei Darussalam,BRN,"Population, male",SP.POP.TOTL.MA.IN,200725,203744,206866,210001,213017,215824,218381,220724,222905,224976,..
+Brunei Darussalam,BRN,"Population, female",SP.POP.TOTL.FE.IN,187921,189944,192123,194420,196752,199083,201419,203749,206057,208309,..
+Brunei Darussalam,BRN,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,Access to electricity (% of population),EG.ELC.ACCS.ZS,31.1,48.19865799,51.52984238,54.88513947,56.1,68.84770203,76.62667847,89.07,91.83401489,93,..
+Cambodia,KHM,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,15.77243821,36.47347792,40.11477394,43.8848664,44.72675374,60.51231225,70.0286114,86.08934338,89.42852772,90.90677232,..
+Cambodia,KHM,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,91.3,93.21829224,94.37664032,95.25200653,96.9,98.079422,99.24687195,99.06,99.71366119,99.7,..
+Cambodia,KHM,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.26,3.1,4.94,6.8,14,6.43319107,32.39845171,32.90027854,40.5459865,..,..
+Cambodia,KHM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.022663076,0.095160051,0.068172612,1.070953761,1.75384,2.30126,1.441695,0.876,0.67645,0.68860716,..
+Cambodia,KHM,"Air transport, passengers carried",IS.AIR.PSGR,277725.0543,499981.518,508688.5094,615123.328,1071179,1103880,1047394,1305297,1411059,1429503.73,..
+Cambodia,KHM,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5104.722222,7191,7432,11897.04324,14732,12983,11933,14372,14387,14850,..
+Cambodia,KHM,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,70000000,80000000,92000000,114000000,126000000,131000000,146000000,178000000,217000000,251000000,..
+Cambodia,KHM,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,28.6,27.9245283,18.27057183,28.06524184,23.41606793,..,..,..,..,..,..
+Cambodia,KHM,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,152000000,174000000,200000000,235000000,267000000,282000000,311000000,385000000,470000000,539000000,..
+Cambodia,KHM,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,..,..,..,..,..,..,..,1000000000,..,..,..
+Cambodia,KHM,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ,2.12,..,2.2,..,2.583333,..,2.362919,..,2.14,..,..
+Cambodia,KHM,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,..,..,..,..,..,..,..,1000000000,..,..,..
+Cambodia,KHM,"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS,100,99.90595245,100,..,100,..,..,..,..,..,..
+Cambodia,KHM,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS,100,99.96308136,100,100,98.54100037,..,..,..,..,..,..
+Cambodia,KHM,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS,100,100,100,100,100,..,..,..,..,..,..
+Cambodia,KHM,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,89.33999634,93.94000244,94.59999847,80.58000183,63.06999969,75.94999695,79.66000366,79.19000244,..,..,..
+Cambodia,KHM,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,7.337470055,7.335400105,7.199850082,9.59706974,8.791600227,..,..,..,8.838979721,..,..
+Cambodia,KHM,"Preprimary education, duration (years)",SE.PRE.DURS,6,6,6,6,6,6,6,6,6,6,..
+Cambodia,KHM,"Primary education, duration (years)",SE.PRM.DURS,6,6,6,6,6,6,6,6,6,6,6
+Cambodia,KHM,"Primary education, pupils",SE.PRM.ENRL,2272527,2224267,2194716,2224955,2128685,2178916,2105903,2111631,2147313,2163143,..
+Cambodia,KHM,"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS,47.78671,47.63875,47.74581,47.15295,48.03557,49.0537,48.37189,48.22462,48.1383,..,..
+Cambodia,KHM,"Primary education, teachers",SE.PRM.TCHR,46905,47033,48002,47413,47691,47866,49511,50684,51490,51578,..
+Cambodia,KHM,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,46.21894836,47.51557159,48.93128967,50.0052681,51.17317963,53.32176971,55.24024963,56.62142181,57.45775986,58.17790985,..
+Cambodia,KHM,"Secondary education, duration (years)",SE.SEC.DURS,6,6,6,6,6,6,6,6,6,6,6
+Cambodia,KHM,"Secondary education, general pupils",SE.SEC.ENRL.GC,925788,910420,881108,849130,835096,839491,861995,905416,955656,..,..
+Cambodia,KHM,"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS,46.27258,46.987,47.57578,48.30309,48.99796,49.86379,50.71143,51.5394,51.7974,..,..
+Cambodia,KHM,"Secondary education, pupils",SE.SEC.ENRL,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,"Secondary education, teachers",SE.SEC.TCHR,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,"Secondary education, teachers, female",SE.SEC.TCHR.FE,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,0.150000006,..,10.26000023,..,..,..,..,3.059999943,..,..,..
+Cambodia,KHM,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,0.219999999,0.219999999,12.72000027,0.200000003,0.059999999,..,..,6.090000153,..,..,..
+Cambodia,KHM,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,..,..,2.140000105,..,1.039999962,..,0.910000026,..,..,..,..
+Cambodia,KHM,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,..,..,1.649999976,..,1.309999943,..,..,..,..,..,..
+Cambodia,KHM,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.9116993,7.50353098,7.26115417,7.10386801,6.70157766,6.19431591,6.11648464,5.928473,6.02654314,..,..
+Cambodia,KHM,Number of people pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP1.TO,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,Number of people pushed below the $3.20 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP2.TO,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.10.TO,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.25.TO,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,51.90946579,59.74187851,60.47090912,61.22215271,58.62177658,57.33106613,58.56040192,60.43587494,57.52603912,..,..
+Cambodia,KHM,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,44,40.6,37.7,35.3,33.3,31.6,30.1,28.8,27.6,26.6,..
+Cambodia,KHM,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,39.3,36.1,33.4,31.3,29.4,28,26.5,25.4,24.4,23.4,..
+Cambodia,KHM,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,48.5,45,41.8,39.2,37,35.1,33.5,32,30.7,29.6,..
+Cambodia,KHM,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,5.4,5.3,5.2,5.2,5.1,5.1,5.1,5,4.9,4.9,..
+Cambodia,KHM,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,3.2,3.1,3.1,3,2.9,2.9,2.9,2.8,2.8,2.8,..
+Cambodia,KHM,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,7.7,7.6,7.5,7.4,7.3,7.3,7.4,7.2,7.2,7,..
+Cambodia,KHM,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS,84.56999969,85.37000275,83.02999878,80.41000366,80.09999847,80.01000214,81.76999664,82.13999939,82.05000305,81.94000244,79.11000061
+Cambodia,KHM,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,87.93000031,88.79000092,73.70999908,86.33000183,86.09999847,86.06999969,87.55000305,86.75,..,..,..
+Cambodia,KHM,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,84.09999847,84.94999695,66.94999695,79.87000275,79.73999786,79.29000092,81.15000153,81.29000092,..,..,..
+Cambodia,KHM,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,28.2717092,31.0856068,33.92706466,36.79608277,39.69266113,42.61679976,45.56849864,48.30446465,..,..,..
+Cambodia,KHM,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,37.82055114,40.86575832,43.94478805,47.05730405,50.20439975,53.38575143,56.60150096,59.22696598,..,..,..
+Cambodia,KHM,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,75.32423902,78.41731236,81.54660784,84.71212547,87.91386524,91.15182717,94.42601124,95.83492605,..,..,..
+Cambodia,KHM,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,33.32660248,32.92083588,32.49576096,32.11078392,31.81166026,31.60217908,31.38931462,31.27242861,31.20141476,31.09919594,..
+Cambodia,KHM,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,12.30976542,12.55335646,12.5181317,12.31352277,12.07419871,11.89259648,11.63432771,11.47074284,11.37273733,11.27029919,..
+Cambodia,KHM,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,11.08758603,11.21725699,11.20378484,11.10725231,10.98449122,10.87559618,10.73305396,10.60453936,10.48434372,10.35034455,..
+Cambodia,KHM,"Population ages 0-14, female",SP.POP.0014.FE.IN,2336891,2345230,2354615,2367777,2385830,2408061,2430556,2457258,2485511,2510961,..
+Cambodia,KHM,"Population ages 0-14, male",SP.POP.0014.MA.IN,2432882,2441854,2448345,2457292,2473262,2497053,2518444,2549344,2584686,2616224,..
+Cambodia,KHM,"Population ages 0-14, total",SP.POP.0014.TO,4769774,4787158,4803021,4825073,4859073,4905112,4948931,5006533,5070167,5127182,..
+Cambodia,KHM,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,62.9400403,63.2824793,63.64321421,63.95782417,64.1725757,64.2786402,64.35303875,64.31673399,64.22990522,64.18303487,..
+Cambodia,KHM,"Population ages 15-64, female",SP.POP.1564.FE.IN,4686761,4781658,4881199,4980278,5074081,5160580,5242361,5317012,5387351,5458265,..
+Cambodia,KHM,"Population ages 15-64, male",SP.POP.1564.MA.IN,4321350,4420558,4525590,4630240,4727951,4816386,4903699,4979689,5049865,5123296,..
+Cambodia,KHM,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,217821,224594,231677,239235,247595,257002,269149,282353,295678,307844,..
+Cambodia,KHM,"Population ages 65 and above, total",SP.POP.65UP.TO,534326,552092,570677,590744,613388,639356,671273,706149,742401,777797,..
+Cambodia,KHM,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,316507,327529,339028,351510,365784,382354,402084,423758,446707,469952,..
+Cambodia,KHM,Population growth (annual %),SP.POP.GROW,1.539208139,1.588817643,1.630429697,1.64984965,1.638083897,1.603706854,1.565227051,1.530261745,1.490355371,1.44639338,..
+Cambodia,KHM,Population in largest city,EN.URB.LCTY,1522747,1570791,1620351,1671474,1724211,1778611,1834728,1892615,1952329,2014015,..
+Cambodia,KHM,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1522747,1570791,1620351,1671474,1724211,1778611,1834728,1892615,1952329,2014015,..
+Cambodia,KHM,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.63949444,10.80218215,10.96279587,11.12363283,11.28816434,11.45906216,11.63702844,11.82188805,12.01448166,12.21611542,..
+Cambodia,KHM,Urban population,SP.URB.TOTL,2904520,3004694,3109364,3217889,3329689,3443896,3560344,3678963,3800503,3924621,..
+Cambodia,KHM,Rural population,SP.RUR.TOTL,11407692,11536729,11671090,11808443,11944814,12077540,12205949,12330451,12449295,12561921,..
+Cambodia,KHM,"Population, total",SP.POP.TOTL,14312212,14541423,14780454,15026332,15274503,15521436,15766293,16009414,16249798,16486542,..
+Cambodia,KHM,"Population, male",SP.POP.TOTL.MA.IN,6972053,7087006,7205612,7326767,7448808,7570441,7691292,7811386,7930229,8047364,..
+Cambodia,KHM,"Population, female",SP.POP.TOTL.FE.IN,7340159,7454417,7574842,7699565,7825695,7950995,8075001,8198028,8319569,8439178,..
+Cambodia,KHM,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,..,..,..,..,..,..,..,..,..,..,..
+Cambodia,KHM,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,..,..,..,..,55.09999847,..,47.70000076,..,45.09999847,..,..
+Lao PDR,LAO,Access to electricity (% of population),EG.ELC.ACCS.ZS,70.11830139,70,76.36662775,79.51023865,83.17922974,89.7,90.77253723,93.6,98.07460022,100,..
+Lao PDR,LAO,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,58.49505502,57.92214234,66.78569682,71.03914941,76.15302924,85.69092753,86.72053238,90.51048283,97.23783949,100,..
+Lao PDR,LAO,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.15673065,97.31502533,97.43094456,97.61762238,97.78075409,97.8,98.73145294,99.5,99.62831116,99.84763336,..
+Lao PDR,LAO,Individuals using the Internet (% of population),IT.NET.USER.ZS,7,9,10.74767619,12.5,14.26,18.2,21.87,25.51043508,..,..,..
+Lao PDR,LAO,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.122,0.389,0.966483518,1.409832,1.37196,1.356497701,1.49602039,1.473259309,0.911447,0.910194,..
+Lao PDR,LAO,"Air transport, passengers carried",IS.AIR.PSGR,443778,532707,877949.8814,1476528,1310124,1181188,1220201,1196041,1009414,979307,..
+Lao PDR,LAO,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,11374,12262,15836.12863,16944,12732,9772,9986,9731,16299,16359,..
+Lao PDR,LAO,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,12000000,11000000,9000000,3000000,3000000,4000000,100000.0015,8000000,13000000,18000000,..
+Lao PDR,LAO,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,..,..,..,..,..,..,..,..,..,..,..
+Lao PDR,LAO,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,3000000,7000000,10000000,17000000,400000.006,1000000,1000000,7000000,22000000,39000000,..
+Lao PDR,LAO,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,..,..,..,..,..,..,..,..,..,5700000000,..
+Lao PDR,LAO,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ,1.95,..,2.4,..,2.20625,..,1.761834,..,2.44,..,..
+Lao PDR,LAO,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,..,..,..,..,..,..,..,..,..,..,..
+Lao PDR,LAO,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,..,..,..,..,..,..,..,..,..,5700000000,..
+Lao PDR,LAO,"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS,87.48348999,87.28739166,73.04441833,89.13153839,92.43441772,..,..,..,..,..,..
+Lao PDR,LAO,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS,78.04708862,82.74530029,72.14571381,90.42012787,86.40675354,..,..,..,..,..,..
+Lao PDR,LAO,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS,66.65013885,61.5734787,69.95989227,61.39945984,60.17995071,..,..,..,..,..,..
+Lao PDR,LAO,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,..,..,..,..,..,..,..,..,..,..,..
+Lao PDR,LAO,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,..,..,..,..,..,..,..,..,..,..,..
+Lao PDR,LAO,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,..,..,..,..,..,..,..,..,..,..,..
+Lao PDR,LAO,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,93.13999939,..,..,..,..,..,..,75.22000122,..,..,..
+Lao PDR,LAO,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,7.246960163,8.259579659,7.36868,13.34101009,11.75734997,..,..,..,..,..,..
+Lao PDR,LAO,"Preprimary education, duration (years)",SE.PRE.DURS,6,6,6,6,6,6,6,6,6,6,..
+Lao PDR,LAO,"Primary education, duration (years)",SE.PRM.DURS,5,5,5,5,5,5,5,5,5,5,5
+Lao PDR,LAO,"Primary education, pupils",SE.PRM.ENRL,916341,900123,883938,878283,870893,850466,827987,808705,786246,770659,..
+Lao PDR,LAO,"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS,47.18211,47.44352,47.61386,47.73302,47.83906,48.00321,48.0115,48.14191,48.11446,..,..
+Lao PDR,LAO,"Primary education, teachers",SE.PRM.TCHR,31782,33576,32586,34311,34619,35206,36069,36204,35199,35891,..
+Lao PDR,LAO,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,51.12957001,51.84059906,50.84085083,50.59893036,50.94889832,51.26683044,51.75357819,52.34780884,52.34807968,53.48973083,..
+Lao PDR,LAO,"Secondary education, duration (years)",SE.SEC.DURS,6,7,7,7,7,7,7,7,7,7,7
+Lao PDR,LAO,"Secondary education, general pupils",SE.SEC.ENRL.GC,433427,488143,510940,543289,592365,630676,656768,670567,671064,..,..
+Lao PDR,LAO,"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS,44.68457,45.2011,45.73903,46.22623,46.84544,47.18746,47.29356,47.42405,47.59531,..,..
+Lao PDR,LAO,"Secondary education, pupils",SE.SEC.ENRL,434717,490290,515130,549735,600747,640231,665278,677497,678129,666155,..
+Lao PDR,LAO,"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS,44.67941,45.20671,45.80611,46.30231,46.9577,47.27747,47.34442,47.4067,47.56735,..,..
+Lao PDR,LAO,"Secondary education, teachers",SE.SEC.TCHR,21498,24652,27686,31011,32757,34200,36260,37360,..,38576,..
+Lao PDR,LAO,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,46.71596909,48.00016022,49.38597107,50.00484085,49.99847031,50.24853897,50.51295853,50.86991119,..,51.20800018,..
+Lao PDR,LAO,"Secondary education, teachers, female",SE.SEC.TCHR.FE,10043,11833,13673,15507,16378,17185,18316,19005,..,19754,..
+Lao PDR,LAO,"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,4.340000153,..,..,..,..,..,..,39.06999969,..,..,..
+Lao PDR,LAO,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,5.119999886,..,..,..,..,..,..,42.08000183,..,..,..
+Lao PDR,LAO,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,2.119999886,..,..,..,..,..,..,6.900000095,..,..,..
+Lao PDR,LAO,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,2.329999924,..,..,..,..,..,..,7.239999771,..,..,..
+Lao PDR,LAO,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..
+Lao PDR,LAO,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2.91155219,1.94457507,2.07637596,2.39984965,2.29845548,2.45366454,2.36087489,2.52514863,2.24630332,..,..
+Lao PDR,LAO,Number of people pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP1.TO,..,..,..,..,..,..,..,..,..,..,..
+Lao PDR,LAO,Number of people pushed below the $3.20 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP2.TO,..,..,..,..,..,..,..,..,..,..,..
+Lao PDR,LAO,Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.10.TO,..,..,..,..,..,..,..,..,..,..,..
+Lao PDR,LAO,Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.25.TO,..,..,..,..,..,..,..,..,..,..,..
+Lao PDR,LAO,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,35.96009445,52.60240936,48.63187027,48.70332336,50.87946701,45.36532593,46.4421196,46.23710632,48.54592514,..,..
+Lao PDR,LAO,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,68,64.8,61.8,58.9,56.2,53.6,51.3,49.2,47.3,45.5,..
+Lao PDR,LAO,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,61.8,58.8,55.9,53.2,50.7,48.3,46.1,44.2,42.4,40.7,..
+Lao PDR,LAO,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,73.8,70.4,67.2,64.2,61.4,58.6,56.2,54,51.9,50.1,..
+Lao PDR,LAO,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,6,5.9,5.7,5.7,5.5,5.6,5.6,5.6,5.6,5.4,..
+Lao PDR,LAO,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,4.2,4.1,3.8,3.7,3.5,3.5,3.4,3.4,3.3,3.2,..
+Lao PDR,LAO,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,7.8,7.8,7.6,7.7,7.5,7.7,7.7,7.9,7.9,7.6,..
+Lao PDR,LAO,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS,77.51000214,77.54000092,77.59999847,77.65000153,77.70999908,77.75,77.72000122,77.69000244,77.66000366,77.66000366,76.59999847
+Lao PDR,LAO,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,79.22000122,..,..,..,..,..,..,40.34999847,..,..,..
+Lao PDR,LAO,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,77.66000366,..,..,..,..,..,..,36.93999863,..,..,..
+Lao PDR,LAO,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,44.93939467,47.6243085,50.29865583,52.96243667,55.61565101,58.25829885,60.89038019,63.51189504,..,..,..
+Lao PDR,LAO,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,56.45443231,59.06949337,61.67064894,64.25655439,66.82845018,69.38612054,71.93004839,74.45941043,..,..,..
+Lao PDR,LAO,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,83.24114665,84.95368181,86.6727319,88.3982969,90.13037683,91.86897168,93.61408145,95.36570614,..,..,..
+Lao PDR,LAO,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,36.43195531,35.79640829,35.16490729,34.56668579,34.04421789,33.6121922,33.20571336,32.88293529,32.60391868,32.30299932,..
+Lao PDR,LAO,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,12.88684923,12.83614025,12.62252028,12.31242516,12.00401006,11.77161993,11.5456532,11.41017754,11.33561013,11.25548342,..
+Lao PDR,LAO,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,12.23175141,12.23137669,12.07643787,11.82832423,11.57926521,11.3998584,11.18263699,11.05180155,10.97917304,10.90141014,..
+Lao PDR,LAO,"Population ages 0-14, female",SP.POP.0014.FE.IN,1122105,1119633,1115820,1112272,1111255,1113888,1116197,1122070,1129833,1136627,..
+Lao PDR,LAO,"Population ages 0-14, male",SP.POP.0014.MA.IN,1154590,1152554,1150386,1148852,1149212,1151964,1157040,1164322,1172519,1179328,..
+Lao PDR,LAO,"Population ages 0-14, total",SP.POP.0014.TO,2276693,2272201,2266213,2261112,2260453,2265853,2273212,2286362,2302328,2315949,..
+Lao PDR,LAO,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,59.88812905,60.50149609,61.10830425,61.67774805,62.16482955,62.55148221,62.88211859,63.12551282,63.32093135,63.53301611,..
+Lao PDR,LAO,"Population ages 15-64, female",SP.POP.1564.FE.IN,1898115,1940632,1981887,2021946,2060943,2099384,2141573,2183313,2224987,2267524,..
+Lao PDR,LAO,"Population ages 15-64, male",SP.POP.1564.MA.IN,1844389,1899744,1956263,2012584,2066650,2117316,2163245,2205827,2246424,2287452,..
+Lao PDR,LAO,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,100451,102413,104351,106394,108774,111735,116384,121385,126685,132247,..
+Lao PDR,LAO,"Population ages 65 and above, total",SP.POP.65UP.TO,229964,234993,240174,245663,251710,258613,267821,277534,287767,298535,..
+Lao PDR,LAO,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,129515,132591,135823,139256,142923,146877,151407,156118,161059,166277,..
+Lao PDR,LAO,Population growth (annual %),SP.POP.GROW,1.621970051,1.562373505,1.516011911,1.490482499,1.493868185,1.515739448,1.540943466,1.553620994,1.548022991,1.517115575,..
+Lao PDR,LAO,Population in largest city,EN.URB.LCTY,605994,613045,620188,627394,634694,642079,649550,657108,664754,673061,..
+Lao PDR,LAO,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,..,..,..,..,..,..,..,..,..,..,..
+Lao PDR,LAO,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,..,..,..,..,..,..,..,..,..,..,..
+Lao PDR,LAO,Urban population,SP.URB.TOTL,1878749,1946164,2014818,2084844,2157058,2231865,2309515,2389619,2471810,2555552,..
+Lao PDR,LAO,Rural population,SP.RUR.TOTL,4370416,4401403,4429712,4456460,4482698,4509299,4536331,4563416,4589697,4613903,..
+Lao PDR,LAO,"Population, total",SP.POP.TOTL,6249165,6347567,6444530,6541304,6639756,6741164,6845846,6953035,7061507,7169455,..
+Lao PDR,LAO,"Population, male",SP.POP.TOTL.MA.IN,3099430,3154711,3211000,3267830,3324635,3381015,3436669,3491534,3545628,3599027,..
+Lao PDR,LAO,"Population, female",SP.POP.TOTL.FE.IN,3149735,3192856,3233530,3273474,3315121,3360149,3409177,3461501,3515879,3570428,..
+Lao PDR,LAO,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,..,..,14.5,..,..,..,..,..,10,..,..
+Lao PDR,LAO,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,..,..,..,..,31.39999962,..,20.79999924,..,21.10000038,..,..
+Malaysia,MYS,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.27632141,99.53179169,99.8,99.92416382,99.98835754,100,100,100,100,100,..
+Malaysia,MYS,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,98.10620396,98.59195451,99.53931469,99.72207147,99.95593818,100,100,100,100,100,..
+Malaysia,MYS,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.75630188,99.90441132,99.9,99.99917603,100,100,100,100,100,100,..
+Malaysia,MYS,Individuals using the Internet (% of population),IT.NET.USER.ZS,56.3,61,65.8,57.05751226,63.66542588,71.06406781,78.78830993,80.14047901,81.20104862,84.21322418,..
+Malaysia,MYS,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2564.658224,2193.260008,1943.958883,2161.992838,2193.300634,2005.979379,1149.876958,1455.209824,1359.12559,1378.744705,..
+Malaysia,MYS,"Air transport, passengers carried",IS.AIR.PSGR,34239014.17,38218608.85,39165195.22,47995842,49673884,50345820,53817353,58711937,60481772,63623130,..
+Malaysia,MYS,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,302185.2225,336401,343382,430334.4578,443318.55,463740,447001,473610.67,474940,498878,..
+Malaysia,MYS,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,934000000,956000000,948000000,1141000000,1451000000,891000000,867000000,1316000000,1080000000,1303000000,..
+Malaysia,MYS,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,6.168961262,9.352929801,6.221117569,3.84971232,5.792403827,..,..,..,..,..,..
+Malaysia,MYS,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,1467000000,1689000000,1460000000,1783000000,1869000000,1528000000,1597000000,1926000000,2167000000,2377000000,..
+Malaysia,MYS,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,253300000,..,..,381000000,..,..,..,1543000000,..,..,..
+Malaysia,MYS,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ,3.5,..,3.43,..,3.558952,..,3.447615,..,3.15,..,..
+Malaysia,MYS,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,1482.69,1535,1564,1760,1741,1474,1349,1234,1315,..,..
+Malaysia,MYS,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,..,..,..,381000000,..,..,..,1543000000,..,..,..
+Malaysia,MYS,"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS,..,100,95.3547287,97.99810791,98.89144897,99.08547974,98.1388092,99.16165161,99.39658356,96.79817963,..
+Malaysia,MYS,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS,99.98706818,99.98143005,90.12007141,91.2041626,..,..,91.68543243,91.05792236,92.85813141,95.63826752,..
+Malaysia,MYS,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS,66.64736176,76.62496185,82.64967346,81.0969162,..,..,86.73985291,81.68151093,83.5316925,80.34886169,..
+Malaysia,MYS,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,..,..,..,..,..,..,10.35451984,..,..,..,..
+Malaysia,MYS,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,..,..,..,..,..,..,12.31396008,..,..,..,..
+Malaysia,MYS,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,..,..,..,..,..,..,11.30653954,..,..,..,..
+Malaysia,MYS,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,..,65.66000366,66,67.30999756,68.25,69.33000183,69.25,..,..,..,..
+Malaysia,MYS,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,18.40623093,20.97702026,19.85116005,19.45430946,19.80056,19.81078911,20.93572044,21.67765045,19.73863983,17.93574905,..
+Malaysia,MYS,"Preprimary education, duration (years)",SE.PRE.DURS,2,2,2,2,2,2,2,2,2,2,2
+Malaysia,MYS,"Primary education, duration (years)",SE.PRM.DURS,6,6,6,6,6,6,6,6,6,6,6
+Malaysia,MYS,"Primary education, pupils",SE.PRM.ENRL,3233645,3237724,3241803,3245882,3178364,3107870,3101007,3084630,..,..,..
+Malaysia,MYS,"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS,48.70222,48.70381,48.6801,48.67401,48.66897,48.66896,48.86587,48.90068,..,..,..
+Malaysia,MYS,"Primary education, teachers",SE.PRM.TCHR,256615,262707,270069,274348,278496,269757,267060,264648,239725,235289,..
+Malaysia,MYS,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,68.70603943,69.3498764,69.21231079,69.09945679,69.89292145,69.50662994,69.61730957,69.62418365,69.71195984,69.64286041,..
+Malaysia,MYS,"Secondary education, duration (years)",SE.SEC.DURS,6,6,6,6,6,6,6,6,6,6,6
+Malaysia,MYS,"Secondary education, general pupils",SE.SEC.ENRL.GC,2453474,2449224,2496835,2498678,2564351,2576618,2458448,2375648,2307875,..,..
+Malaysia,MYS,"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS,51.02222,51.22263,50.92872,51.28684,51.50254,51.91942,50.56833,50.92863,51.27877,..,..
+Malaysia,MYS,"Secondary education, pupils",SE.SEC.ENRL,2615717,2627704,2757435,2754185,2846473,2801439,2759653,2744639,2592970,2602216,..
+Malaysia,MYS,"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS,50.53035,50.62735,49.74329,50.05383,50.48883,50.63376,50.13648,49.88073,50.48053,..,..
+Malaysia,MYS,"Secondary education, teachers",SE.SEC.TCHR,190581,193506,198044,207454,..,..,208866,223594,227412,228634,..
+Malaysia,MYS,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,67.30052185,68.20822144,68.91246033,67.02593994,..,..,68.19779205,67.41906738,67.35527802,67.17942047,..
+Malaysia,MYS,"Secondary education, teachers, female",SE.SEC.TCHR.FE,128262,131987,136477,139048,..,..,142442,150745,153174,153595,..
+Malaysia,MYS,"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,..,9.680000305,9.56000042,9.140000343,8.619999886,..,8.420000076,8.800000191,9.140000343,..,..
+Malaysia,MYS,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,..,14.36999989,13.94999981,13.64999962,12.77000046,..,11.68999958,11.80000019,12.47000027,..,..
+Malaysia,MYS,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,3.230000019,..,..,..,..,3.579999924,4.050000191,..,..,..,..
+Malaysia,MYS,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,3.74000001,..,..,..,..,4.039999962,4.460000038,..,..,..,..
+Malaysia,MYS,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.435,..,..,..,..,..,..,..,..,..,..
+Malaysia,MYS,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,3.18466234,3.33996487,3.48790693,3.52240086,3.72527027,3.81608534,3.68835807,3.71246052,3.7562995,..,..
+Malaysia,MYS,Number of people pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP1.TO,..,..,..,..,..,..,..,..,..,..,..
+Malaysia,MYS,Number of people pushed below the $3.20 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP2.TO,..,..,..,..,..,..,..,..,..,..,..
+Malaysia,MYS,Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.10.TO,..,..,..,..,..,..,..,..,..,..,..
+Malaysia,MYS,Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.25.TO,..,..,..,..,..,..,..,..,..,..,..
+Malaysia,MYS,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,34.52879333,34.51544189,33.61474991,33.84986496,33.31125259,33.34957123,34.41049576,34.25241852,35.12428665,..,..
+Malaysia,MYS,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.1,8,8,8,8,8.1,8.2,8.3,8.4,8.6,..
+Malaysia,MYS,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,7.3,7.2,7.2,7.2,7.3,7.4,7.5,7.6,7.7,7.9,..
+Malaysia,MYS,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,8.8,8.7,8.7,8.7,8.7,8.7,8.8,8.9,9.1,9.2,..
+Malaysia,MYS,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,4.5,4.6,4.6,4.4,4.6,4.8,5.1,5.4,5.4,5.7,..
+Malaysia,MYS,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,2.1,2.1,2.1,2.1,2.1,2.2,2.2,2.2,2.3,2.3,..
+Malaysia,MYS,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,6.8,6.9,6.9,6.6,7,7.3,7.8,8.3,8.5,8.9,..
+Malaysia,MYS,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS,58.40999985,59.70000076,60.70000076,62.06999969,62.43999863,62.45999908,62.09999847,62.20000076,62.63999939,62.59000015,61.27000046
+Malaysia,MYS,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,..,..,..,..,78.43000031,78.29000092,77.66000366,77.44999695,..,78.26999664,..
+Malaysia,MYS,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,58.41999817,61.83000183,62.25999832,64.30999756,65.69999695,65.76999664,65.41000366,65.66999817,66.37000275,66.44999695,..
+Malaysia,MYS,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,97.44973048,97.75716009,98.06458971,98.37201933,98.67944894,98.67944894,98.67944894,98.67944894,..,..,..
+Malaysia,MYS,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,98.84265212,99.02391853,99.20196935,99.37726864,99.54990829,99.55743568,99.56485343,99.57203616,..,..,..
+Malaysia,MYS,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,99.41403135,99.52615104,99.63827073,99.75039042,99.86251011,99.86251011,99.86251011,99.86251011,..,..,..
+Malaysia,MYS,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,27.96111463,27.29867437,26.69723938,26.13412102,25.59706238,25.08959577,24.71627674,24.34379096,23.99514109,23.69497915,..
+Malaysia,MYS,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,8.622124054,8.426147821,8.338208117,8.308527165,8.293628244,8.270607559,8.329804889,8.325393905,8.277072653,8.214300241,..
+Malaysia,MYS,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,8.678646887,8.485459743,8.384988965,8.337252401,8.306816182,8.273762175,8.314008911,8.301122399,8.251091745,8.187439318,..
+Malaysia,MYS,"Population ages 0-14, female",SP.POP.0014.FE.IN,3828594,3793874,3763012,3734416,3707851,3684574,3679238,3673779,3671032,3673923,..
+Malaysia,MYS,"Population ages 0-14, male",SP.POP.0014.MA.IN,4058688,4027449,3997379,3967007,3937112,3910287,3904901,3898362,3894296,3896568,..
+Malaysia,MYS,"Population ages 0-14, total",SP.POP.0014.TO,7887281,7821331,7760396,7701431,7644962,7594862,7584141,7572143,7565328,7570493,..
+Malaysia,MYS,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,67.10071793,67.5868546,67.99096772,68.34002043,68.65432939,68.93482936,69.08061926,69.22225702,69.33310429,69.38424954,..
+Malaysia,MYS,"Population ages 15-64, female",SP.POP.1564.FE.IN,9116290,9327048,9523640,9710719,9893305,10073305,10238784,10404829,10566738,10718627,..
+Malaysia,MYS,"Population ages 15-64, male",SP.POP.1564.MA.IN,9811504,10037287,10240148,10428362,10611398,10793928,10958458,11126760,11293002,11449491,..
+Malaysia,MYS,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,679939,716178,754576,795047,837193,880950,927437,975383,1025167,1077100,..
+Malaysia,MYS,"Population ages 65 and above, total",SP.POP.65UP.TO,1392960,1465345,1544040,1628408,1716911,1808864,1903410,2001283,2103510,2211171,..
+Malaysia,MYS,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,713020,749119,789404,833321,879700,927918,975986,1025916,1078350,1134070,..
+Malaysia,MYS,Population growth (annual %),SP.POP.GROW,1.691027071,1.55799095,1.445660673,1.369113713,1.340490659,1.344947677,1.357864517,1.360192981,1.352511651,1.327060649,..
+Malaysia,MYS,Population in largest city,EN.URB.LCTY,5809953,6004742,6206062,6414131,6629176,6851431,7081137,7318545,7563912,7780301,..
+Malaysia,MYS,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5809953,6004742,6206062,6414131,6629176,6851431,7081137,7318545,7563912,7780301,..
+Malaysia,MYS,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.59680159,20.95826125,21.35003459,21.76578391,22.1959818,22.63367448,23.07701558,23.52849514,23.99064849,24.35165979,..
+Malaysia,MYS,Urban population,SP.URB.TOTL,20002882,20516662,21009012,21491648,21974918,22464989,22964507,23467810,23973075,24475766,..
+Malaysia,MYS,Rural population,SP.RUR.TOTL,8205153,8134293,8059147,7977224,7891641,7805973,7720297,7637218,7555510,7474011,..
+Malaysia,MYS,"Population, total",SP.POP.TOTL,28208035,28650955,29068159,29468872,29866559,30270962,30684804,31105028,31528585,31949777,..
+Malaysia,MYS,"Population, male",SP.POP.TOTL.MA.IN,14550131,14780914,14992103,15190416,15385703,15585165,15790796,16000504,16212465,16423158,..
+Malaysia,MYS,"Population, female",SP.POP.TOTL.FE.IN,13657904,13870041,14076056,14278456,14480856,14685797,14894008,15104524,15316120,15526619,..
+Malaysia,MYS,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,..,0.1,..,0,..,0,..,..,..,..,..
+Malaysia,MYS,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,..,..,..,..,..,..,..,..,..,..,..
+Myanmar,MMR,Access to electricity (% of population),EG.ELC.ACCS.ZS,48.8,53.99968338,55.15865326,56.34173203,52,60.5,55.6,69.8148366,66.17798615,68.35665131,..
+Myanmar,MMR,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,32.47184182,39.91581105,41.13300796,42.50533158,37.88095274,47.60191631,39.80994005,59.91913485,54.71817399,57.50790592,..
+Myanmar,MMR,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,89,88.35561371,89.05771637,89.47685242,85.5,90.8,92.3,92.5545213,92.19425964,92.67173767,..
+Myanmar,MMR,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.25,0.98,4,8,11.52,21.72583401,25.07330424,23.62108195,..,..,..
+Myanmar,MMR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2.06226,3.53038,3.829875041,2.861556,3.90162,3.3857879,5.065285902,4.833935501,4.742165598,8.30683,..
+Myanmar,MMR,"Air transport, passengers carried",IS.AIR.PSGR,924207,1539676,1663425.435,1572120,1926969,2095503,2741388,3149037,3407788.433,3701663.849,..
+Myanmar,MMR,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,20485,32354,37798.82982,38028,49599,51652,65643,62480,64397.96449,64320,..
+Myanmar,MMR,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,..,9000000,8000000,16000000,82000000,121000000,164000000,31000000,29000000,28000000,..
+Myanmar,MMR,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,16.61142781,20.22699635,25.26090198,21.51547318,20.49162958,..,..,..,..,..,..
+Myanmar,MMR,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,19000000,9000000,11000000,5000000,74000000,79000000,92000000,19000000,18000000,18000000,..
+Myanmar,MMR,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,..,..,..,..,..,..,..,..,104000000,..,..
+Myanmar,MMR,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ,1.92,..,2.1,..,2.142857,..,2.329592,..,1.99,..,..
+Myanmar,MMR,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,..,..,..,..,..,..,..,..,..,..,..
+Myanmar,MMR,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,..,..,..,..,..,..,..,..,104000000,..,..
+Myanmar,MMR,"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS,..,96.2406311,..,..,..,..,..,82.78455353,..,79.76789093,..
+Myanmar,MMR,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS,..,95.09932709,..,..,..,..,..,88.85075378,..,82.96485901,..
+Myanmar,MMR,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS,..,60.11188126,..,..,..,..,..,50.81774902,..,51.09778976,..
+Myanmar,MMR,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,..,..,..,..,..,..,..,..,..,..,..
+Myanmar,MMR,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,..,..,..,..,..,..,..,..,..,..,..
+Myanmar,MMR,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,..,..,..,..,..,..,..,..,..,..,..
+Myanmar,MMR,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,..,..,..,..,..,69.98999786,..,66.41000366,66.80999756,65.5,..
+Myanmar,MMR,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,..,5.928639889,..,..,..,..,..,10.09710026,10.34902954,10.45750999,..
+Myanmar,MMR,"Preprimary education, duration (years)",SE.PRE.DURS,5,5,5,5,5,5,5,5,5,5,..
+Myanmar,MMR,"Primary education, duration (years)",SE.PRM.DURS,5,5,5,5,5,5,5,5,5,5,5
+Myanmar,MMR,"Primary education, pupils",SE.PRM.ENRL,5125942,..,..,..,5177276,..,5321524,5388349,5299765,..,..
+Myanmar,MMR,"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS,49.51353,..,..,..,48.99146,..,48.9046,48.32562,48.55953,..,..
+Myanmar,MMR,"Primary education, teachers",SE.PRM.TCHR,181666,..,..,..,187828,..,241433,233815,217561,..,..
+Myanmar,MMR,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,83.84838104,..,..,..,83.82988739,..,82.77368927,82.3480072,80.26300812,..,..
+Myanmar,MMR,"Secondary education, duration (years)",SE.SEC.DURS,6,6,6,6,6,6,6,6,6,6,6
+Myanmar,MMR,"Secondary education, general pupils",SE.SEC.ENRL.GC,2852447,..,..,..,3191268,..,3742454,3964792,4179394,..,..
+Myanmar,MMR,"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS,51.12081,..,..,..,50.43857,..,52.13699,52.08331,51.96351,..,..
+Myanmar,MMR,"Secondary education, pupils",SE.SEC.ENRL,2852447,..,..,..,3191268,..,3748367,3970936,4186742,..,..
+Myanmar,MMR,"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS,51.12081,..,..,..,50.43857,..,52.08868,52.03305,51.90363,..,..
+Myanmar,MMR,"Secondary education, teachers",SE.SEC.TCHR,83703,..,..,..,100346,..,155858,150309,153660,..,..
+Myanmar,MMR,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,85.13195038,..,..,..,86.74585724,..,..,86.44525909,86.16361237,..,..
+Myanmar,MMR,"Secondary education, teachers, female",SE.SEC.TCHR.FE,71258,..,..,..,87046,..,..,129935,132399,..,..
+Myanmar,MMR,"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,..,..,..,..,..,11.18999958,..,10.53999996,8.210000038,9.010000229,..
+Myanmar,MMR,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,..,..,..,..,..,18.62000084,..,17.37999916,13.60000038,14.93000031,..
+Myanmar,MMR,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,..,..,..,..,..,3.269999981,..,2.700000048,2.289999962,0.800000012,..
+Myanmar,MMR,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,..,..,..,..,..,4.75,..,3.160000086,2.089999914,0.879999995,..
+Myanmar,MMR,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.193,0.194,0.195,..,..,..,..,..,..,..,..
+Myanmar,MMR,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,1.87254584,1.91946495,2.43835998,3.23661304,4.39342737,5.4778142,5.11008072,5.09039927,4.79125547,..,..
+Myanmar,MMR,Number of people pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP1.TO,..,..,..,..,..,..,..,..,..,..,..
+Myanmar,MMR,Number of people pushed below the $3.20 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP2.TO,..,..,..,..,..,..,..,..,..,..,..
+Myanmar,MMR,Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.10.TO,..,..,..,..,..,..,..,..,..,..,..
+Myanmar,MMR,Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.25.TO,..,..,..,..,..,..,..,..,..,..,..
+Myanmar,MMR,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,80.74465942,77.27888489,76.7002182,72.23144531,66.03540802,70.4500351,76.67272949,75.68733215,76.44635773,..,..
+Myanmar,MMR,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,63.4,60.7,58.2,55.8,53.7,51.8,49.9,48.1,46.4,44.7,..
+Myanmar,MMR,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,57.9,55.4,53.1,50.8,48.8,46.9,45.1,43.4,41.9,40.2,..
+Myanmar,MMR,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,68.6,65.8,63.2,60.7,58.4,56.3,54.4,52.6,50.6,48.8,..
+Myanmar,MMR,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,3.5,3.4,3.3,3.3,3.2,3.2,3.2,3,2.9,2.9,..
+Myanmar,MMR,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,1.5,1.5,1.3,1.3,1.3,1.2,1.2,1.1,1.1,1.1,..
+Myanmar,MMR,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,5.5,5.5,5.4,5.4,5.4,5.3,5.3,5,4.8,4.9,..
+Myanmar,MMR,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS,66.88999939,66.58999634,66.22000122,65.80999756,65.41999817,65.05000305,63.11999893,61.22000122,61.90000153,60.11000061,55.59999847
+Myanmar,MMR,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,..,..,..,..,..,79.66999817,..,76.37999725,76.47000122,75.19999695,..
+Myanmar,MMR,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,..,..,..,..,..,64.22000122,..,60.29000092,60.97000122,59.18999863,..
+Myanmar,MMR,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,62.27670476,61.84491969,61.41313462,60.98134955,60.54956448,60.11777941,59.68599434,59.25420927,..,..,..
+Myanmar,MMR,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,67.01173246,66.62587379,66.24036846,65.85506331,65.47027915,65.08818855,64.70898086,64.33268404,..,..,..
+Myanmar,MMR,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,78.66939601,78.28843771,77.90747941,77.52652111,77.14556282,76.76460452,76.38364622,76.00268792,..,..,..
+Myanmar,MMR,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,30.04613285,29.61701366,29.19584436,28.76565297,28.30694864,27.81738999,27.3298314,26.84669288,26.37104828,25.91440126,..
+Myanmar,MMR,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,10.22810493,9.886288261,9.618928053,9.411520675,9.238359373,9.080940502,8.964064552,8.876913251,8.806595854,8.742857367,..
+Myanmar,MMR,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,9.362682746,9.046634059,8.802197682,8.615039894,8.458807802,8.313488142,8.202052868,8.116133268,8.043981793,7.97815959,..
+Myanmar,MMR,"Population ages 0-14, female",SP.POP.0014.FE.IN,7564254,7513850,7467869,7419457,7359972,7286395,7206016,7121801,7036649,6956513,..
+Myanmar,MMR,"Population ages 0-14, male",SP.POP.0014.MA.IN,7639333,7587914,7542624,7496108,7439070,7368005,7291156,7209639,7126786,7049000,..
+Myanmar,MMR,"Population ages 0-14, total",SP.POP.0014.TO,15203589,15101897,15010663,14915696,14799101,14654403,14497171,14331458,14163467,14005547,..
+Myanmar,MMR,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,65.14851598,65.51906599,65.88961573,66.26306003,66.64032304,67.01409544,67.31718483,67.59224925,67.84430978,68.07389414,..
+Myanmar,MMR,"Population ages 15-64, female",SP.POP.1564.FE.IN,17201308,17433228,17675036,17921316,18163135,18392291,18592119,18772511,18940845,19106309,..
+Myanmar,MMR,"Population ages 15-64, male",SP.POP.1564.MA.IN,15764374,15975402,16201319,16437753,16676990,16911222,17116434,17309984,17497253,17684516,..
+Myanmar,MMR,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,994797,1016557,1036966,1058141,1082815,1112351,1158795,1208009,1259166,1311149,..
+Myanmar,MMR,"Population ages 65 and above, total",SP.POP.65UP.TO,2431547,2480143,2526747,2577734,2641607,2722811,2839502,2968636,3106838,3249051,..
+Myanmar,MMR,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,1436753,1463664,1489884,1519676,1558826,1610462,1680707,1760637,1847696,1937933,..
+Myanmar,MMR,Population growth (annual %),SP.POP.GROW,0.694989178,0.767385401,0.826303883,0.849756952,0.822712022,0.762033335,0.689521233,0.633962381,0.608482652,0.625548337,..
+Myanmar,MMR,Population in largest city,EN.URB.LCTY,4381041,4471308,4563564,4657462,4753425,4851365,4951323,5053341,5157461,5243989,..
+Myanmar,MMR,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5489354,5609801,5733103,5858804,5987480,6119024,6253501,6390977,6531522,6649810,..
+Myanmar,MMR,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.84835032,11.00163432,11.15092519,11.29899144,11.45253936,11.6152993,11.78899869,11.97202698,12.16108208,12.30411384,..
+Myanmar,MMR,Urban population,SP.URB.TOTL,14616046,14825521,15046733,15274176,15501259,15729411,15957065,16186666,16423490,16674093,..
+Myanmar,MMR,Rural population,SP.RUR.TOTL,35984772,36165094,36366965,36578275,36779548,36951315,37088161,37195915,37284905,37371327,..
+Myanmar,MMR,"Population, total",SP.POP.TOTL,50600818,50990615,51413698,51852451,52280807,52680726,53045226,53382581,53708395,54045420,..
+Myanmar,MMR,"Population, male",SP.POP.TOTL.MA.IN,24398504,24579873,24780909,24992002,25198875,25391578,25566384,25727632,25883205,26044665,..
+Myanmar,MMR,"Population, female",SP.POP.TOTL.FE.IN,26202314,26410742,26632789,26860449,27081932,27289148,27478842,27654949,27825190,28000755,..
+Myanmar,MMR,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,..,..,..,..,..,4.8,..,1.4,..,..,..
+Myanmar,MMR,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,..,..,..,..,41,..,56.59999847,..,56.09999847,..,..
+Philippines,PHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,85.39570618,87.2,87.08,87.5,89.69213867,89.08,92.04637146,93,94.43275452,95.62862396,..
+Philippines,PHL,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,78.31681755,81.18840395,80.69743002,81.89969303,84.51017309,83.19498028,88.05684867,90.02316667,91.70230292,93.54532594,..
+Philippines,PHL,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,93.93247223,94.39431763,94.66,94.1,95.75258636,95.91,96.64108276,96.4,97.52329254,97.96386719,..
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,25,29,36.2351,48.09902359,49.6,36,55.5,60.05476033,..,43.02661187,..
+Philippines,PHL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,460.1940548,470.0034139,533.2836147,325.682352,577.474932,604.508812,665.1245679,753.351739,835.904513,926.888641,..
+Philippines,PHL,"Air transport, passengers carried",IS.AIR.PSGR,22575356,26326620.76,28540727.36,25540880,34897404,37023422,40206684,39341995,43080118,47776892,..
+Philippines,PHL,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,205318,225789.6836,241698.559,200532,287460,325859,345482,273159,292450,320569,..
+Philippines,PHL,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,477000000,439000000,592000000,567000000,532000000,525000000,546000000,592000000,611000000,813000000,..
+Philippines,PHL,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.51427475,11.10211634,11.46446154,10.28485638,9.40954156,..,..,..,..,..,..
+Philippines,PHL,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,796000000,855000000,902000000,909000000,1029000000,1142000000,1146000000,1361000000,1475000000,1675000000,..
+Philippines,PHL,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,343000000,370000000,49700000,46670000,837100000,1023900000,2471900000,53550000,..,1733250000,..
+Philippines,PHL,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ,2.57,..,2.8,..,2.6,..,2.550097,..,2.73,..,..
+Philippines,PHL,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,..,..,..,..,..,..,..,..,..,..,..
+Philippines,PHL,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,343000000,370000000,49700000,46670000,837100000,1023900000,2471900000,53550000,..,1733250000,..
+Philippines,PHL,"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS,..,..,..,..,..,..,..,..,..,..,..
+Philippines,PHL,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS,..,..,..,..,..,..,..,..,..,..,..
+Philippines,PHL,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS,..,..,..,..,..,..,..,..,..,..,..
+Philippines,PHL,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,14.79566002,..,..,14.71033001,..,..,..,13.19266033,..,..,..
+Philippines,PHL,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,18.13639069,..,..,19.23904991,..,..,..,18.80533028,..,..,..
+Philippines,PHL,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,16.48168945,..,..,16.99505997,..,..,..,16.0239296,..,..,..
+Philippines,PHL,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,65.05000305,65.12999725,64.04000092,..,63.49000168,63.15999985,63.29999924,..,..,..,..
+Philippines,PHL,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,..,..,..,..,..,..,..,..,..,..,..
+Philippines,PHL,"Preprimary education, duration (years)",SE.PRE.DURS,1,1,1,1,1,1,1,1,1,1,..
+Philippines,PHL,"Primary education, duration (years)",SE.PRM.DURS,6,6,6,6,6,6,6,6,6,6,6
+Philippines,PHL,"Primary education, pupils",SE.PRM.ENRL,..,..,..,..,14460377,14453060,14293635,14039867,13418841,..,..
+Philippines,PHL,"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS,..,..,..,..,47.88758,47.77429,47.83106,47.89458,..,..,..
+Philippines,PHL,"Primary education, teachers",SE.PRM.TCHR,..,..,..,..,461244,477530,493084,482743,495636,..,..
+Philippines,PHL,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,..,..,..,..,86.98497772,87.62737274,87.54431152,87.53540039,87.35301971,..,..
+Philippines,PHL,"Secondary education, duration (years)",SE.SEC.DURS,4,4,4,4,4,4,4,5,6,6,6
+Philippines,PHL,"Secondary education, general pupils",SE.SEC.ENRL.GC,..,..,..,..,7220389,7319461,7397290,8444603,..,..,..
+Philippines,PHL,"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS,..,..,..,..,50.58583,50.35619,50.51536,51.20434,..,..,..
+Philippines,PHL,"Secondary education, pupils",SE.SEC.ENRL,..,..,..,..,7220389,7319461,7397290,9007148,10562477,..,..
+Philippines,PHL,"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS,..,..,..,..,50.58583,50.35619,50.51536,50.82828,..,..,..
+Philippines,PHL,"Secondary education, teachers",SE.SEC.TCHR,..,..,..,..,267515,279052,314482,377174,421823.8438,..,..
+Philippines,PHL,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,..,..,..,..,73.31140137,72.88928223,73.17780304,71.44288635,70.69937897,..,..
+Philippines,PHL,"Secondary education, teachers, female",SE.SEC.TCHR.FE,..,..,..,..,196119,203399,230131,269464,298226.8438,..,..
+Philippines,PHL,"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,18.85000038,17.54999924,17.77000046,17.62999916,16.87000084,17.12000084,15.5,15.27999973,14.38000011,13.75,..
+Philippines,PHL,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,25.31999969,24.42000008,24.82999992,24.29999924,23.35000038,22.84000015,22.20000076,21.70000076,19.88999939,18.76000023,..
+Philippines,PHL,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,10.32999992,10.03999996,9.199999809,..,9.300000191,8.460000038,7.510000229,..,..,..,..
+Philippines,PHL,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,9.319999695,8.899999619,8.079999924,..,8.149999619,7.28000021,6.510000229,..,..,..,..
+Philippines,PHL,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..
+Philippines,PHL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.31276274,4.20609283,4.37465286,4.4638114,4.12741232,4.32136869,4.40684605,4.4460597,4.40060663,..,..
+Philippines,PHL,Number of people pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP1.TO,..,..,..,..,..,..,..,..,..,..,..
+Philippines,PHL,Number of people pushed below the $3.20 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP2.TO,..,..,..,..,..,..,..,..,..,..,..
+Philippines,PHL,Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.10.TO,..,..,..,..,..,..,..,..,..,..,..
+Philippines,PHL,Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.25.TO,..,..,..,..,..,..,..,..,..,..,..
+Philippines,PHL,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,54.84585571,58.89308929,58.31450272,57.57440186,55.69347763,54.78786087,53.68787003,53.04578018,53.85138321,..,..
+Philippines,PHL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,31.7,31.3,31,30.6,30.2,29.8,29.3,28.7,28,27.3,..
+Philippines,PHL,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,28.4,28,27.7,27.3,27,26.6,26.1,25.6,25,24.3,..
+Philippines,PHL,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,34.9,34.5,34.1,33.6,33.2,32.9,32.3,31.7,31,30.1,..
+Philippines,PHL,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,2.4,2.7,2.4,2.4,2.3,2.3,2.2,2.2,2.2,2.2,..
+Philippines,PHL,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,1.3,1.5,1.3,1.2,1,1.1,1.1,1.1,1.1,1.2,..
+Philippines,PHL,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,3.4,4,3.5,3.5,3.5,3.5,3.4,3.3,3.2,3.1,..
+Philippines,PHL,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS,59.95000076,60.63999939,60.24000168,59.97999954,60.54999924,60.29999924,60.56000137,58.15000153,58.18000031,58.68999863,55.11000061
+Philippines,PHL,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,72.37000275,73.13999939,72.69000244,72.27999878,72.75,72.08000183,73.13999939,71.51000214,70.94000244,70.87999725,..
+Philippines,PHL,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,59.22000122,59.99000168,59.56999969,59.29999924,59.93000031,59.52000046,59.93000031,57.63000107,57.59999847,58.11000061,..
+Philippines,PHL,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,63.41259969,64.98588256,66.57809733,68.18924398,69.81932252,71.46833295,73.13627528,74.82314949,..,..,..
+Philippines,PHL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,68.70449936,69.80306664,70.90838698,72.02044268,73.13895592,74.26398135,75.39533489,76.53350207,..,..,..
+Philippines,PHL,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,75.0862504,75.5679839,76.0510794,76.53553691,77.02135642,77.50853794,77.99708146,78.48698699,..,..,..
+Philippines,PHL,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,33.99137972,33.63088436,33.29024086,32.97383358,32.64898136,32.28195681,31.92163406,31.46800852,30.9630402,30.47588107,..
+Philippines,PHL,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,11.90305286,11.79870014,11.7312092,11.69044704,11.61627044,11.46035631,11.32298753,11.00592334,10.58593756,10.19028401,..
+Philippines,PHL,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,11.5471279,11.48944664,11.40695905,11.31729036,11.19654874,11.01614397,10.82176054,10.49849233,10.10566959,9.740621611,..
+Philippines,PHL,"Population ages 0-14, female",SP.POP.0014.FE.IN,15510588,15606683,15713454,15832217,15944236,16027756,16092147,16104107,16081220,16055516,..
+Philippines,PHL,"Population ages 0-14, male",SP.POP.0014.MA.IN,16430018,16534793,16649328,16769785,16872346,16936387,16998890,16991651,16941390,16893979,..
+Philippines,PHL,"Population ages 0-14, total",SP.POP.0014.TO,31940605,32141052,32362321,32601741,32816516,32964143,33091219,33095932,33022677,32949491,..
+Philippines,PHL,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,61.87157738,62.15021024,62.40403319,62.62904128,62.85606712,63.1159012,63.31540795,63.59489479,63.91439103,64.20912271,..
+Philippines,PHL,"Population ages 15-64, female",SP.POP.1564.FE.IN,28809652,29429699,30068248,30708221,31343681,31977375,32569677,33181101,33800509,34407300,..
+Philippines,PHL,"Population ages 15-64, male",SP.POP.1564.MA.IN,29329079,29967301,30596372,31214094,31834931,32472302,33065538,33703687,34365393,35013429,..
+Philippines,PHL,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,1638607,1702766,1768641,1836129,1906172,1980074,2078971,2184132,2294705,2408660,..
+Philippines,PHL,"Population ages 65 and above, total",SP.POP.65UP.TO,3887446,4032010,4185710,4347506,4518017,4699395,4937469,5192506,5463318,5746394,..
+Philippines,PHL,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,2248836,2328805,2416595,2511106,2611772,2719318,2858704,3008587,3168706,3337731,..
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,1.666112353,1.691813951,1.704126853,1.692082958,1.646689216,1.579367402,1.507207616,1.445492801,1.39613428,1.363994679,..
+Philippines,PHL,Population in largest city,EN.URB.LCTY,11887189,12075689,12267444,12461704,12659314,12860058,13064268,13271721,13482468,13698889,..
+Philippines,PHL,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13341999,13563933,13789938,14019139,14252542,14489901,14731620,14977445,15227448,15483831,..
+Philippines,PHL,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.19863382,14.19266122,14.18533463,14.17914326,14.17978016,14.19003547,14.21094148,14.24073422,14.27770613,14.32141674,..
+Philippines,PHL,Urban population,SP.URB.TOTL,42597021,43505397,44437841,45385009,46329521,47262079,48177810,49096983,50027217,50975903,..
+Philippines,PHL,Rural population,SP.RUR.TOTL,51369759,52064650,52774797,53486543,54183617,54851133,55486117,56076281,56624705,57140712,..
+Philippines,PHL,"Population, total",SP.POP.TOTL,93966780,95570047,97212638,98871552,100513138,102113212,103663927,105173264,106651922,108116615,..
+Philippines,PHL,"Population, male",SP.POP.TOTL.MA.IN,47397704,48204860,49014341,49820008,50613449,51388763,52143399,52879470,53601488,54316068,..
+Philippines,PHL,"Population, female",SP.POP.TOTL.FE.IN,46569076,47365187,48198297,49051544,49899689,50724449,51520528,52293794,53050434,53800547,..
+Philippines,PHL,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,..,..,10.4,..,..,6.1,..,..,2.7,..,..
+Philippines,PHL,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,40.90000153,..,..,..,38.29999924,..,43.5,..,42.90000153,..,..
+Singapore,SGP,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,..
+Singapore,SGP,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100,..
+Singapore,SGP,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100,..
+Singapore,SGP,Individuals using the Internet (% of population),IT.NET.USER.ZS,71,71,72,80.90205685,79.02923586,79.012957,84.45226789,84.45226789,88.16563603,88.94925269,..
+Singapore,SGP,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,7121.414679,7300.797048,6899.373161,6360.12415,6051.73592,6331.930304,6695.811276,5062.992579,6947.435328,6411.989828,..
+Singapore,SGP,"Air transport, passengers carried",IS.AIR.PSGR,24859825.16,26509929.14,29138458.27,31729241,33643518.42,33585397,35370328,38094990,40401515,43050722,..
+Singapore,SGP,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,131721.9156,144696.8755,157939.3178,165239.07,183398.5576,181563,207203,203615,208787,215014,..
+Singapore,SGP,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,..,..,..,..,..,..,..,..,..,..,..
+Singapore,SGP,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,2.854875333,2.542483376,1.896915118,2.295232338,2.029161604,..,..,..,..,..,..
+Singapore,SGP,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,..,..,..,..,..,..,..,..,..,..,..
+Singapore,SGP,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,..,..,..,..,..,..,..,..,..,..,..
+Singapore,SGP,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ,4.22,..,4.15,..,4.278593,..,4.20396,..,4.06,..,..
+Singapore,SGP,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,..,..,..,..,..,..,..,..,..,..,..
+Singapore,SGP,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,..,..,..,..,..,..,..,..,..,..,..
+Singapore,SGP,"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS,87.58277893,92.02393341,83.37088776,85.65254974,..,..,87.63806152,88.16783142,89.72180176,..,..
+Singapore,SGP,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS,87.7532196,93.31075287,94.77773285,96.56598663,..,..,97.83545685,97.04849243,97.35733032,..,..
+Singapore,SGP,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS,93.28063202,93.70339966,98.32073975,92.96875,..,..,93.66751099,97.74610901,97.67479706,..,..
+Singapore,SGP,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,25.91202927,26.50612068,28.09943962,29.71894073,30.20611,30.47409058,31.13059044,33.25022125,34.03776169,..,..
+Singapore,SGP,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,21.60116005,22.72257042,23.46401024,25.15990067,25.47447968,26.13422966,27.29824066,28.36425018,29.35412979,..,..
+Singapore,SGP,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,23.68022919,24.54940033,25.67773056,27.33844948,27.74241066,28.21052933,29.12792015,30.70517921,31.59559059,..,..
+Singapore,SGP,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,88.65000153,..,..,..,..,..,..,..,..,..,..
+Singapore,SGP,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,18.57172966,28.86183929,31.37174988,28.83914948,..,..,..,..,..,..,..
+Singapore,SGP,"Preprimary education, duration (years)",SE.PRE.DURS,6,6,6,6,6,6,6,6,6,6,..
+Singapore,SGP,"Primary education, duration (years)",SE.PRM.DURS,6,6,6,6,6,6,6,6,6,6,6
+Singapore,SGP,"Primary education, pupils",SE.PRM.ENRL,..,..,..,..,..,..,236943,234653,233553,..,..
+Singapore,SGP,"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS,..,..,..,..,..,..,48.9451,48.8777,..,..,..
+Singapore,SGP,"Primary education, teachers",SE.PRM.TCHR,..,..,..,..,..,..,15734,15969,16294,..,..
+Singapore,SGP,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,..,..,..,..,..,..,80.4881134,80.55608368,80.49588776,..,..
+Singapore,SGP,"Secondary education, duration (years)",SE.SEC.DURS,4,4,4,4,4,4,4,4,4,4,4
+Singapore,SGP,"Secondary education, general pupils",SE.SEC.ENRL.GC,..,..,..,..,..,..,179225,171319,..,..,..
+Singapore,SGP,"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS,..,..,..,..,..,..,48.50495,48.58072,..,..,..
+Singapore,SGP,"Secondary education, pupils",SE.SEC.ENRL,..,..,..,..,..,..,179225,171319,166709,..,..
+Singapore,SGP,"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS,..,..,..,..,..,..,48.50495,48.58072,..,..,..
+Singapore,SGP,"Secondary education, teachers",SE.SEC.TCHR,..,..,..,..,..,..,15384,14929,14745,..,..
+Singapore,SGP,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,..,..,..,..,..,..,64.94409943,64.5723114,65.04577637,..,..
+Singapore,SGP,"Secondary education, teachers, female",SE.SEC.TCHR.FE,..,..,..,..,..,..,9991,9640,9591,..,..
+Singapore,SGP,"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,..,..,..,2.799999952,2.5,2.700000048,2.900000095,3.599999905,3.099999905,3.190000057,..
+Singapore,SGP,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,..,..,..,3.700000048,3.599999905,3.599999905,4.099999905,4.5,4.300000191,4.130000114,..
+Singapore,SGP,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,2.829999924,2.630000114,2.75999999,2.74000001,..,3.720000029,..,4.119999886,..,..,..
+Singapore,SGP,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,2.660000086,2.99000001,3.089999914,2.869999886,..,4.050000191,..,4.599999905,..,..,..
+Singapore,SGP,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,0.402,0.399,..,..,0.503,..,..,..,..
+Singapore,SGP,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,3.20265365,3.15792179,3.32783675,3.68562651,3.87155676,4.18069839,4.40151834,4.4177866,4.46444654,..,..
+Singapore,SGP,Number of people pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP1.TO,..,..,..,..,..,..,..,..,..,..,..
+Singapore,SGP,Number of people pushed below the $3.20 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP2.TO,..,..,..,..,..,..,..,..,..,..,..
+Singapore,SGP,Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.10.TO,..,..,..,..,..,..,..,..,..,..,..
+Singapore,SGP,Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.25.TO,..,..,..,..,..,..,..,..,..,..,..
+Singapore,SGP,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,41.45875549,39.51037216,37.65390396,36.16598511,33.29804611,33.08544922,32.66244888,32.12524033,31.0351429,..,..
+Singapore,SGP,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2.8,2.8,2.8,2.8,2.7,2.7,2.7,2.7,2.6,2.5,..
+Singapore,SGP,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,2.6,2.6,2.6,2.5,2.5,2.5,2.5,2.5,2.4,2.3,..
+Singapore,SGP,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,3,3,3,3,2.9,2.9,2.9,2.9,2.8,2.7,..
+Singapore,SGP,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,9.9,9.6,11.3,10.3,10.2,9,9.1,9,9.4,11.2,..
+Singapore,SGP,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,6.7,6.7,8.3,6.1,5.7,5.8,6.4,6.2,6,7.1,..
+Singapore,SGP,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,12.8,12.2,14,14.1,14.3,11.9,11.5,11.5,12.6,15,..
+Singapore,SGP,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS,65.98999786,66.43000031,67.20999908,67.15000153,67.98000336,68.68000031,68.19000244,68,68.05999756,68.33000183,66.02999878
+Singapore,SGP,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,73.51000214,72.93000031,73.44000244,73.18000031,73.30000305,73.90000153,73.31999969,72.97000122,72.83000183,72.44999695,..
+Singapore,SGP,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,63.49000168,63.47999954,64.12000275,64.12999725,64.51999664,65.75,65.25,64.87000275,65.08000183,65.16999817,..
+Singapore,SGP,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,..,..,..,..,..,..,..,..,..,..,..
+Singapore,SGP,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,100,100,100,100,100,100,100,100,..,..,..
+Singapore,SGP,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,100,100,100,100,100,100,100,100,..,..,..
+Singapore,SGP,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,13.99385949,13.75378161,13.51459621,13.22696712,12.91274509,12.63211372,12.28924617,12.21245608,12.27828264,12.33150315,..
+Singapore,SGP,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,4.061131731,3.901448789,3.802562368,3.762922997,3.780395498,3.819053854,3.702458211,3.815320059,4.04813536,4.264725534,..
+Singapore,SGP,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,4.231261113,4.117014538,4.023177605,3.959797502,3.943607851,3.959658756,3.849440795,3.948488546,4.158396862,4.352346629,..
+Singapore,SGP,"Population ages 0-14, female",SP.POP.0014.FE.IN,345467,345218,346928,345419,342777,340747,336724,334704,337209,341603,..
+Singapore,SGP,"Population ages 0-14, male",SP.POP.0014.MA.IN,364962,367711,371000,368707,363499,358442,352369,350689,355125,361736,..
+Singapore,SGP,"Population ages 0-14, total",SP.POP.0014.TO,710431,712953,717954,714145,706292,699188,689093,685394,692333,703336,..
+Singapore,SGP,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,78.74602527,78.60089489,78.44108066,78.3688139,78.36625208,78.32063578,77.94225802,77.20764444,76.25833717,75.27536737,..
+Singapore,SGP,"Population ages 15-64, female",SP.POP.1564.FE.IN,1877125,1908065,1948880,1977196,2000941,2021032,2037279,2020947,2007357,2006294,..
+Singapore,SGP,"Population ages 15-64, male",SP.POP.1564.MA.IN,2120603,2166522,2218453,2254217,2285559,2314018,2333172,2312149,2292607,2287093,..
+Singapore,SGP,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,161196,175716,191143,203496,213682,224121,249024,274511,303657,336648,..
+Singapore,SGP,"Population ages 65 and above, total",SP.POP.65UP.TO,368577,396310,427350,453757,477015,500765,547747,593771,646383,706851,..
+Singapore,SGP,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,207380,220456,236033,250126,263266,276642,298715,319254,342722,370194,..
+Singapore,SGP,Population growth (annual %),SP.POP.GROW,1.771832879,2.084902456,2.45339033,1.619308099,1.298440178,1.186376937,1.297436099,0.08859547,0.469704299,1.144283307,..
+Singapore,SGP,Population in largest city,EN.URB.LCTY,5074252,5176017,5270958,5360837,5448342,5535262,5622455,5708844,5791901,5868104,..
+Singapore,SGP,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5074252,5176017,5270958,5360837,5448342,5535262,5622455,5708844,5791901,5868104,..
+Singapore,SGP,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,99.95114968,99.85201656,99.21920956,99.29016762,99.60908448,100,100,100,100,100,..
+Singapore,SGP,Urban population,SP.URB.TOTL,5076732,5183688,5312437,5399162,5469724,5535002,5607283,5612253,5638676,5703569,..
+Singapore,SGP,Rural population,SP.RUR.TOTL,0,0,0,0,0,0,0,0,0,0,..
+Singapore,SGP,"Population, total",SP.POP.TOTL,5076732,5183688,5312437,5399162,5469724,5535002,5607283,5612253,5638676,5703569,..
+Singapore,SGP,"Population, male",SP.POP.TOTL.MA.IN,2646760,2709949,2780596,2826421,2862740,2896581,2934565,2937348,2951389,2985477,..
+Singapore,SGP,"Population, female",SP.POP.TOTL.FE.IN,2429972,2473739,2531841,2572741,2606984,2638421,2672718,2674905,2687287,2718092,..
+Singapore,SGP,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,..,..,..,..,..,..,..,..,..,..,..
+Singapore,SGP,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,..,..,..,..,..,..,..,..,..,..,..
+Thailand,THA,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7,99.35928345,99.10862355,99.42706299,99.48364258,99.6,99.85212708,99.9,99.82,99.9,..
+Thailand,THA,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.46565974,98.98836968,98.82440281,99.03673473,99.23103567,99.50881734,99.85629286,99.9,99.73018342,99.9,..
+Thailand,THA,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,99.81819153,99.44981977,99.88172913,99.76914978,99.7,99.8476944,99.9,99.91,99.9,..
+Thailand,THA,Individuals using the Internet (% of population),IT.NET.USER.ZS,22.4,23.66992562,26.46,28.94,34.89,39.31612674,47.50496562,52.89192934,56.81748093,66.65241317,..
+Thailand,THA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2938.670392,2870.788883,2758.438836,2640.367634,2524.64667,2136.728479,2160.069653,2511.891368,2666.263256,2234.03731,..
+Thailand,THA,"Air transport, passengers carried",IS.AIR.PSGR,28780723,31940491.98,36392469.35,43029150.6,46546612.48,56447637,62341676,70704889,76053042.75,78227313,..
+Thailand,THA,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,201306,227322,252368.8984,298450,338053.9817,392664,413880,448477,475886.496,489963,..
+Thailand,THA,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,1528000000,1817000000,1847000000,1757000000,1753000000,1821000000,2195000000,2172000000,2323000000,2614000000,..
+Thailand,THA,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,6.344579431,6.944631421,5.695003836,6.067469795,6.111201261,..,..,..,..,..,..
+Thailand,THA,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,3692000000,3740000000,3911000000,3958000000,3629000000,3605000000,3673000000,4681000000,5017000000,4561000000,..
+Thailand,THA,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,..,..,..,..,..,..,..,3356000000,..,..,..
+Thailand,THA,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ,3.16,..,3.08,..,3.40451,..,3.12367,..,3.14,..,..
+Thailand,THA,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,2701,2562,..,..,..,..,..,..,..,..,..
+Thailand,THA,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,..,..,..,..,..,..,..,3356000000,..,..,..
+Thailand,THA,"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS,97.2022934,96.27606201,93.31365204,97.09613037,99.88333893,..,..,..,..,..,..
+Thailand,THA,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS,99.28614044,91.18296814,94.7693634,95.7826004,97.69535065,..,..,..,..,..,..
+Thailand,THA,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS,89.23825073,82.6664505,88.03766632,86.38471222,95.92288208,..,..,..,..,..,..
+Thailand,THA,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,..,..,..,12.03125954,..,..,13.21926975,..,13.14081955,..,..
+Thailand,THA,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,..,..,..,14.13302994,..,..,16.26811981,..,16.58242035,..,..
+Thailand,THA,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,..,..,..,13.12545013,..,..,14.80998039,..,14.93900013,..,..
+Thailand,THA,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,87.76000214,87.66000366,87.75,85.69000244,85.69000244,85.16999817,84.23000336,83.91000366,83.80999756,82.80000305,..
+Thailand,THA,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,16.22262001,22.63023949,21.39679909,19.12593079,..,..,..,..,..,..,..
+Thailand,THA,"Preprimary education, duration (years)",SE.PRE.DURS,5,5,5,5,5,5,5,5,5,5,..
+Thailand,THA,"Primary education, duration (years)",SE.PRM.DURS,6,6,6,6,6,6,6,6,6,6,6
+Thailand,THA,"Primary education, pupils",SE.PRM.ENRL,5146535,5044242,5005432,4954620,5182351,5081079,5063489,4952685,4900785,4899076,..
+Thailand,THA,"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS,48.36357,48.36027,48.34392,48.36159,49.01976,47.12686,48.65536,48.52812,48.52339,..,..
+Thailand,THA,"Primary education, teachers",SE.PRM.TCHR,316552,319568,307446,..,336676,300968,303969,293265,..,378131,..
+Thailand,THA,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,59.15079117,59.18833923,59.68072128,..,..,73.42342377,71.33293152,71.58371735,..,71.56143951,..
+Thailand,THA,"Secondary education, duration (years)",SE.SEC.DURS,6,6,6,6,6,6,6,6,6,6,6
+Thailand,THA,"Secondary education, general pupils",SE.SEC.ENRL.GC,4054280,4135781,4046655,3925508,6065280,6072263,5916512,5684327,5609433,..,..
+Thailand,THA,"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS,52.20017,52.29191,52.35215,52.8928,51.08847,48.93278,49.59365,48.77552,49.24744,..,..
+Thailand,THA,"Secondary education, pupils",SE.SEC.ENRL,4807093,4892517,4785810,4655351,6791615,6757174,6570988,6335213,6265551,6019229,..
+Thailand,THA,"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS,50.82827,50.79717,50.67976,51.08401,50.14043,47.78832,48.63439,47.73833,48.19721,..,..
+Thailand,THA,"Secondary education, teachers",SE.SEC.TCHR,..,..,..,..,229937,240005,246711,240251,241484,229313,..
+Thailand,THA,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,..,..,..,..,..,67.95358276,..,71.13477325,71.106987,69.72740173,..
+Thailand,THA,"Secondary education, teachers, female",SE.SEC.TCHR.FE,..,..,..,..,..,163092,..,170902,171712,159894,..
+Thailand,THA,"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,7.570000172,7.519999981,7.179999828,8.93999958,8.829999924,9.25,10.61999989,11.56999969,10.73999977,11.23999977,..
+Thailand,THA,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.52000046,12.55000019,12.85000038,14.36999989,13.31999969,13.59000015,14.97000027,15.59000015,14.77999973,14.88000011,..
+Thailand,THA,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,1.789999962,1.840000033,1.25,0.660000026,1.340000033,1.360000014,1.539999962,1.75,1.580000043,1.49000001,..
+Thailand,THA,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,1.940000057,1.860000014,1.399999976,0.720000029,1.330000043,1.480000019,1.639999986,1.730000019,1.700000048,1.610000014,..
+Thailand,THA,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..
+Thailand,THA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,3.39009976,3.56825638,3.52293992,3.45313358,3.68448043,3.66789317,3.76332021,3.83202839,3.79303908,..,..
+Thailand,THA,Number of people pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP1.TO,..,..,..,..,..,..,..,..,..,..,..
+Thailand,THA,Number of people pushed below the $3.20 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP2.TO,..,..,..,..,..,..,..,..,..,..,..
+Thailand,THA,Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.10.TO,..,..,..,..,..,..,..,..,..,..,..
+Thailand,THA,Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.25.TO,..,..,..,..,..,..,..,..,..,..,..
+Thailand,THA,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,14.49738026,13.00871372,13.42186737,12.5402317,12.85608101,12.50940418,11.34563923,10.89800835,11.01141357,..,..
+Thailand,THA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,13.6,13,12.4,11.8,11.3,10.8,10.3,9.9,9.4,9,..
+Thailand,THA,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,12.1,11.5,11,10.5,10.1,9.6,9.2,8.8,8.4,8.1,..
+Thailand,THA,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,15,14.3,13.7,13.1,12.5,11.9,11.4,10.8,10.4,9.9,..
+Thailand,THA,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,8.1,8,7.9,7.5,7.8,8,8.5,8.4,8.8,8.8,..
+Thailand,THA,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,3.6,3.4,3.3,3.1,3.1,3,3,3,3,2.9,..
+Thailand,THA,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,12.7,12.7,12.6,12,12.7,13.3,14.2,14.1,14.8,15,..
+Thailand,THA,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS,71.26000214,72.75,72.34999847,70.55000305,69.27999878,68.62999725,67.59999847,66.73000336,67.06999969,66.26000214,65.38999939
+Thailand,THA,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,79.47000122,80.48999786,80.59999847,78.76000214,78.23000336,77.47000122,76.37000275,75.55999756,75.93000031,74.97000122,..
+Thailand,THA,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,71.15000153,72.70999908,72.51000214,70.09999847,69.43000031,68.81999969,67.77999878,66.94000244,67.27999878,66.48000336,..
+Thailand,THA,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,96.4014021,96.71466373,97.02843104,97.34270403,97.60167384,97.85838998,98.17667954,98.32359637,..,..,..
+Thailand,THA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,95.83247138,96.25880144,96.69097625,97.12775391,97.53952279,97.95530764,98.39644593,98.75073461,..,..,..
+Thailand,THA,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,95.10413844,95.69479822,96.28587457,96.8773675,97.469277,98.06160306,98.63029247,99.19176354,..,..,..
+Thailand,THA,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,19.18376312,18.98706468,18.75185466,18.49160632,18.22844036,17.97421799,17.64566071,17.35382166,17.08698882,16.82353621,..
+Thailand,THA,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,6.305737472,6.294570801,6.221365847,6.110100582,5.993320784,5.893028459,5.779215167,5.68788782,5.611888967,5.534946243,..
+Thailand,THA,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,5.713801988,5.681516999,5.606935306,5.507508971,5.404442665,5.311498481,5.207412938,5.118332846,5.03904066,4.958750149,..
+Thailand,THA,"Population ages 0-14, female",SP.POP.0014.FE.IN,6272675,6233932,6183457,6124432,6062272,5999992,5912232,5833826,5761141,5687471,..
+Thailand,THA,"Population ages 0-14, male",SP.POP.0014.MA.IN,6617861,6585782,6537005,6476570,6413047,6350903,6258227,6176725,6102073,6025981,..
+Thailand,THA,"Population ages 0-14, total",SP.POP.0014.TO,12890535,12819759,12720500,12601013,12475313,12350896,12170447,12010555,11863244,11713485,..
+Thailand,THA,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,71.91933754,71.82307433,71.7453303,71.66851778,71.56619439,71.42375065,71.34828152,71.20921442,71.01211804,70.77021345,..
+Thailand,THA,"Population ages 15-64, female",SP.POP.1564.FE.IN,24666173,24760910,24854969,24942262,25013625,25063118,25131688,25171142,25181547,25165006,..
+Thailand,THA,"Population ages 15-64, male",SP.POP.1564.MA.IN,23660049,23732868,23814158,23895892,23965368,24015360,24078166,24112652,24121109,24109158,..
+Thailand,THA,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,2653368,2748403,2848695,2955491,3070111,3193201,3324017,3462469,3610237,3769707,..
+Thailand,THA,"Population ages 65 and above, total",SP.POP.65UP.TO,5978274,6204845,6446326,6705334,6984422,7285134,7591025,7915506,8262614,8637924,..
+Thailand,THA,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,3324904,3456486,3597673,3749854,3914307,4091937,4267001,4453044,4652417,4868259,..
+Thailand,THA,Population growth (annual %),SP.POP.GROW,0.489609257,0.480063003,0.469250687,0.453807163,0.430842722,0.402150718,0.373052587,0.345238362,0.315448259,0.283426556,..
+Thailand,THA,Population in largest city,EN.URB.LCTY,8269045,8484289,8705444,8931731,9164225,9402771,9647526,9898653,10156316,10350204,..
+Thailand,THA,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,11441686,11748366,12037216,12332410,12635334,12945769,13263902,13589926,13924038,14170741,..
+Thailand,THA,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.02757829,17.40024813,17.74459524,18.09743973,18.46225668,18.8399347,19.23103673,19.63582413,20.05521247,20.35277924,..
+Thailand,THA,Urban population,SP.URB.TOTL,29469051,30179366,30828051,31477989,32127193,32772699,33415230,34051250,34678853,35294600,..
+Thailand,THA,Rural population,SP.RUR.TOTL,37725977,37339016,37007906,36666512,36311537,35941812,35556101,35158608,34749671,34330982,..
+Thailand,THA,"Population, total",SP.POP.TOTL,67195028,67518382,67835957,68144501,68438730,68714511,68971331,69209858,69428524,69625582,..
+Thailand,THA,"Population, male",SP.POP.TOTL.MA.IN,32931277,33067053,33199858,33327953,33448526,33559464,33660410,33751846,33833419,33904846,..
+Thailand,THA,"Population, female",SP.POP.TOTL.FE.IN,34263751,34451329,34636099,34816548,34990204,35155047,35310921,35458012,35595105,35720736,..
+Thailand,THA,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.1,0,0.1,0,0,0,0,0,0,0.1,..
+Thailand,THA,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,27,..,..,..,25,..,24.60000038,..,23.70000076,..,..
+Vietnam,VNM,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.43,99,97.89,98.53603363,99.2,99.80340576,99.2,100,100,99.4,..
+Vietnam,VNM,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,96.35902507,98.54904237,97.00138318,97.85029756,98.85342753,99.70298947,98.77843945,100,100,99.05320962,..
+Vietnam,VNM,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.88,100,99.8,99.96487427,99.9,100,100,100,100,100,..
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,30.65,35.07,36.8,38.5,41,45,53,58.14,69.84792868,68.7,..
+Vietnam,VNM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,426.91573,475.3856596,503.5503227,497.1798203,450.2200379,384.47024,451.25618,453.34954,762.66195,1022.84225,..
+Vietnam,VNM,"Air transport, passengers carried",IS.AIR.PSGR,14377619,16544477.83,16976051.38,20429309.91,23826013.27,29944771,37349272,42592762,47049671,53227026,..
+Vietnam,VNM,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,109176,135905.6729,135300.4141,149527.817,167386.363,205217,248580,264548,283787,332029,..
+Vietnam,VNM,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.11243059,9.548197402,9.112014423,9.197626625,9.286712285,..,..,..,..,..,..
+Vietnam,VNM,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,155000000,..,..,275500000,..,..,4500000,..,..,1025050000,..
+Vietnam,VNM,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ,2.56,..,2.68,..,3.112863,..,2.695191,..,3.01,..,..
+Vietnam,VNM,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,3901,4101,3959,3733,4251.9,4125.4,3190,3574,3989,..,..
+Vietnam,VNM,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,155000000,..,..,275500000,..,..,..,..,..,1025050000,..
+Vietnam,VNM,"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS,77.87389374,81.16573334,83.69303131,82.32022858,..,..,..,..,..,..,..
+Vietnam,VNM,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS,73.28681946,75.477211,78.79434967,77.27465057,..,..,..,..,..,..,..
+Vietnam,VNM,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS,76.55056,77.19223785,78.94944,76.46082306,..,..,..,..,..,..,..
+Vietnam,VNM,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,86.66999817,86.75,87.12000275,87.26999664,87.77999878,87.73999786,87.52999878,87.63999939,87.65000153,87.48999786,87.41999817
+Vietnam,VNM,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,17.11449051,17.81126976,18.78495979,18.51551056,..,..,15.60490036,..,14.46829987,..,..
+Vietnam,VNM,"Preprimary education, duration (years)",SE.PRE.DURS,3,3,3,6,6,6,6,6,6,6,..
+Vietnam,VNM,"Primary education, duration (years)",SE.PRM.DURS,5,5,5,5,5,5,5,5,5,5,5
+Vietnam,VNM,"Primary education, pupils",SE.PRM.ENRL,6922624,7048493,7100950,7202767,7434848,7543632,7790009,7801560,8041842,8506562,..
+Vietnam,VNM,"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS,47.26326,47.34723,48.55201,47.73635,47.92565,47.8702,47.94899,47.85385,47.84365,..,..
+Vietnam,VNM,"Primary education, teachers",SE.PRM.TCHR,347840,359039,366045,381432,386953,392403,396843,397098,396600,390754,..
+Vietnam,VNM,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,77.88407898,77.12142944,77.41152191,76.35121918,74.82122803,77.57102203,77.83506012,..,78.11775208,77.67777252,..
+Vietnam,VNM,"Secondary education, duration (years)",SE.SEC.DURS,7,7,7,7,7,7,7,7,7,7,7
+Vietnam,VNM,"Secondary education, general pupils",SE.SEC.ENRL.GC,8100135,7803327,7681611,7545159,7463517,7537413,7563776,7712699,7882203,..,..
+Vietnam,VNM,"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS,50.85833,49.82388,50.17602,50.11836,50.0252,50.05274,50.30349,50.3726,50.26082,..,..
+Vietnam,VNM,"Secondary education, pupils",SE.SEC.ENRL,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,"Secondary education, teachers",SE.SEC.TCHR,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,"Secondary education, teachers, female",SE.SEC.TCHR.FE,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,5.860000134,5.929999828,7.400000095,7.849999905,7.449999809,7.289999962,7.210000038,7.510000229,6,11.93000031,12.98999977
+Vietnam,VNM,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.239999771,8.289999962,9.43999958,9.989999771,9.729999542,9.880000114,9.470000267,9.699999809,8.31000042,14.40999985,15.47000027
+Vietnam,VNM,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,2.24000001,2.50999999,2.819999933,3.890000105,3.970000029,4.590000153,4.630000114,4,2.079999924,2.480000019,4.489999771
+Vietnam,VNM,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,2.650000095,2.900000095,3.099999905,4.170000076,4.409999847,5.059999943,5.059999943,4.449999809,2.309999943,2.700000048,5.909999847
+Vietnam,VNM,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.96677208,5.87397575,6.27840996,6.33500576,5.78317738,5.65262079,5.65919352,5.92534494,5.91789675,..,..
+Vietnam,VNM,Number of people pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP1.TO,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,Number of people pushed below the $3.20 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP2.TO,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.10.TO,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.25.TO,..,..,..,..,..,..,..,..,..,..,..
+Vietnam,VNM,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,37.42028046,37.40775299,40.77892303,41.26946259,41.72227097,43.47938538,44.57281876,45.09383011,44.90139008,..,..
+Vietnam,VNM,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,22.9,22.6,22.3,22.1,21.8,21.5,21.2,20.8,20.4,19.9,..
+Vietnam,VNM,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,18.9,18.7,18.4,18.2,18,17.8,17.6,17.2,16.9,16.5,..
+Vietnam,VNM,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,26.6,26.3,26,25.7,25.4,25.1,24.7,24.3,23.8,23.2,..
+Vietnam,VNM,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,7,7.2,7.4,7.5,7.6,7.7,7.7,7.7,7.6,7.5,..
+Vietnam,VNM,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,4.2,4.3,4.3,4.4,4.5,4.5,4.6,4.6,4.6,4.7,..
+Vietnam,VNM,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,9.8,10.1,10.4,10.5,10.8,10.8,10.8,10.8,10.6,10.4,..
+Vietnam,VNM,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS,75.44000244,75.76000214,75.95999908,76.70999908,76.93000031,76.51000214,76.08000183,76.16999817,76.79000092,75.79000092,73.91000366
+Vietnam,VNM,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,80.12000275,80.37000275,79.98000336,80.44000244,80.54000092,80.58000183,79.83000183,79.41000366,80,75.48999786,73.91999817
+Vietnam,VNM,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,75.31999969,75.51000214,75.40000153,76.01000214,76.08000183,75.76999664,75.13999939,74.69999695,74.73999786,68.93000031,67.06999969
+Vietnam,VNM,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,63.47391432,65.50266022,67.53228232,69.56278061,71.59415509,73.62640577,75.65953265,77.67666526,..,..,..
+Vietnam,VNM,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,71.01800733,72.85442297,74.67936457,76.49172124,78.29218375,80.08031187,81.85570363,83.51504947,..,..,..
+Vietnam,VNM,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,88.27613504,89.15697568,90.04135406,90.92927016,91.82072398,92.71571554,93.61424481,94.25686046,..,..,..
+Vietnam,VNM,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,23.62716381,23.32309119,23.13229785,23.04532745,23.02149289,23.02982887,23.03696795,23.09755109,23.17267683,23.21382761,..
+Vietnam,VNM,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,8.66687761,8.763831629,8.787989646,8.774589034,8.750551788,8.735767022,8.67000689,8.658573732,8.670480468,8.653123592,..
+Vietnam,VNM,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,7.731208378,7.765962667,7.771977636,7.770049584,7.764791037,7.760537436,7.720242025,7.71527949,7.723256373,7.709173502,..
+Vietnam,VNM,"Population ages 0-14, female",SP.POP.0014.FE.IN,9988885,9934744,9936188,9987475,10066822,10158411,10251168,10365371,10485460,10592532,..
+Vietnam,VNM,"Population ages 0-14, male",SP.POP.0014.MA.IN,10795376,10792843,10837218,10927032,11047313,11184961,11320480,11484278,11653884,11800030,..
+Vietnam,VNM,"Population ages 0-14, total",SP.POP.0014.TO,20784261,20727595,20773379,20914435,21114069,21343372,21571523,21849508,22139267,22392547,..
+Vietnam,VNM,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,69.88284136,70.19551289,70.39034107,70.46157205,70.42905015,70.3118126,70.13834047,69.87142097,69.55234487,69.23249944,..
+Vietnam,VNM,"Population ages 15-64, female",SP.POP.1564.FE.IN,30692211,31142327,31549294,31907739,32223297,32500311,32753980,32962277,33136959,33294846,..
+Vietnam,VNM,"Population ages 15-64, male",SP.POP.1564.MA.IN,30782082,31241506,31662985,32038606,32370443,32662617,32922696,33133775,33313641,33488287,..
+Vietnam,VNM,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,2168907,2188929,2209233,2236860,2281757,2349885,2452243,2572966,2710562,2863034,..
+Vietnam,VNM,"Population ages 65 and above, total",SP.POP.65UP.TO,5709096,5760118,5816831,5892714,6006808,6170772,6390554,6651116,6950543,7286432,..
+Vietnam,VNM,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,3540192,3571211,3607570,3655760,3724964,3820891,3938157,4077976,4239888,4423377,..
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,1.000121995,1.022304796,1.042047722,1.053406156,1.053479554,1.043962275,1.032286623,1.017796272,0.992716375,0.960110494,..
+Vietnam,VNM,Population in largest city,EN.URB.LCTY,6189370,6405520,6629220,6860731,7100328,7348291,7604915,7870501,8145361,8371428,..
+Vietnam,VNM,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,11545291,12035947,12548801,13084925,13645449,14231560,14844510,15485610,16156245,16735581,..
+Vietnam,VNM,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.12447345,13.54308045,13.97377892,14.41809852,14.87816525,15.3560736,15.85296058,16.37014768,16.91038121,17.34938381,..
+Vietnam,VNM,Urban population,SP.URB.TOTL,26757120,27621281,28514086,29430443,30371288,31333193,32314724,33310316,34317154,35332140,..
+Vietnam,VNM,Rural population,SP.RUR.TOTL,61210531,61250280,61288401,61323029,61343307,61343883,61324000,61286326,61223241,61129966,..
+Vietnam,VNM,"Population, total",SP.POP.TOTL,87967651,88871561,89802487,90753472,91714595,92677076,93638724,94596642,95540395,96462106,..
+Vietnam,VNM,"Population, male",SP.POP.TOTL.MA.IN,43746364,44223279,44709435,45202498,45699512,46197463,46695419,47191019,47678087,48151351,..
+Vietnam,VNM,"Population, female",SP.POP.TOTL.FE.IN,44221287,44648282,45093052,45550974,46015083,46479613,46943305,47405623,47862308,48310755,..
+Vietnam,VNM,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,4,..,2.7,..,2.6,..,1.8,..,1.8,..,..
+Vietnam,VNM,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,35.20000076,..,..,..,27.20000076,..,14.39999962,..,13.80000019,..,..
+Indonesia,IDN,Access to electricity (% of population),EG.ELC.ACCS.ZS,94.15,94.83,96,96.46425831,97.01,97.53736744,97.62,98.14,98.51,98.85,..
+Indonesia,IDN,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,89.356518,90.20112846,92.63239473,92.99420417,93.97625041,94.91776422,95.06200257,96.03035861,96.81340796,97.52716915,..
+Indonesia,IDN,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.96,99.35,99.2,99.67316508,99.74,99.83139359,99.8,99.89,99.88,99.89,..
+Indonesia,IDN,Individuals using the Internet (% of population),IT.NET.USER.ZS,10.92,12.28,14.52,14.94,17.14,22.0627426,25.4473537,32.33580625,39.90463864,47.69064898,..
+Indonesia,IDN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,665.6636285,754.2979384,880.340264,768.23502,902.1164864,758.7051634,974.556289,1052.36048,1131.913455,981.74186,..
+Indonesia,IDN,"Air transport, passengers carried",IS.AIR.PSGR,59384361.61,70912258.11,79405799.81,81721356,85215879.51,90095131,99274010,108393123,115154100.9,91323153,..
+Indonesia,IDN,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,520932.082,599692.2761,641182.3007,576000,675005.8954,682389,823735,892801,959307.381,808265,..
+Indonesia,IDN,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,2037000000,2398000000,2284000000,2605000000,2581000000,2508000000,2366000000,2656000000,2857000000,3141000000,..
+Indonesia,IDN,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.39825042,9.089669987,8.922161676,9.58290899,9.401165546,8.87,8.7,9.75,9.55,9.35,..
+Indonesia,IDN,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,660000000,1041000000,1139000000,1183000000,1306000000,1293000000,1360000000,1552000000,1489000000,1492000000,..
+Indonesia,IDN,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,..,..,2662000000,..,..,..,462000000,6000000000,2903430000,..,..
+Indonesia,IDN,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ,2.54,..,2.54,..,2.918715,..,2.645161,..,2.89,..,..
+Indonesia,IDN,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,6559,..,..,..,9884,10057,11120,13376,15098,15573,..
+Indonesia,IDN,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,..,..,2662000000,..,..,..,462000000,6000000000,2903430000,..,..
+Indonesia,IDN,"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS,89.15138245,86.8650589,87.35870361,86.69867706,86.9259491,87.58072662,..,..,..,..,..
+Indonesia,IDN,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS,92.30696106,91.29084015,92.56079102,92.35807037,92.42249298,92.77481842,..,..,..,..,..
+Indonesia,IDN,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS,72.88275146,74.56310272,71.74282837,80.32759094,81.36653137,77.75630951,..,..,..,..,..
+Indonesia,IDN,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,..,..,..,..,8.263110161,8.907219887,9.108949661,..,9.528320313,..,..
+Indonesia,IDN,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,..,..,..,..,7.675169945,8.065719604,8.484760284,..,9.222680092,..,..
+Indonesia,IDN,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,..,..,..,..,7.966499805,8.483010292,8.79403019,..,9.374230385,..,..
+Indonesia,IDN,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,84.01000214,85.44999695,87.91999817,86.61000061,86.41000366,85.62000275,85.58999634,84.95999908,81.91000366,84.16999817,..
+Indonesia,IDN,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,16.65418053,18.00613022,18.09041977,17.60392952,17.67152023,20.50329971,..,..,..,..,..
+Indonesia,IDN,"Preprimary education, duration (years)",SE.PRE.DURS,6,6,6,6,6,6,6,6,6,6,..
+Indonesia,IDN,"Primary education, duration (years)",SE.PRM.DURS,6,6,6,6,6,6,6,6,6,6,6
+Indonesia,IDN,"Primary education, pupils",SE.PRM.ENRL,30341820,30662440,30784378,30109356,29838440,29699772,29450356,29351816,29425748,..,..
+Indonesia,IDN,"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS,49.52885,49.51251,48.49679,48.45504,47.90869,47.8247,47.76931,47.77523,47.77049,..,..
+Indonesia,IDN,"Primary education, teachers",SE.PRM.TCHR,1595955,1615479,1655764,1870834,1801909,..,2106887,1827213,1727377,1771614,..
+Indonesia,IDN,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,62.46611023,62.99810028,63.58641815,62.41846848,62.08749008,..,62.06587982,66.00270081,68.43486023,67.0235672,..
+Indonesia,IDN,"Secondary education, duration (years)",SE.SEC.DURS,6,6,6,6,6,6,6,6,6,6,6
+Indonesia,IDN,"Secondary education, general pupils",SE.SEC.ENRL.GC,16656848,17040697,17426639,18132975,18387298,19545071,19297867,19635349,19989539,..,..
+Indonesia,IDN,"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS,50.80133,50.70361,51.33164,50.47971,50.6962,50.0869,50.8947,50.71624,50.7191,..,..
+Indonesia,IDN,"Secondary education, pupils",SE.SEC.ENRL,19975916,20777856,21445796,22322494,22586956,23756316,23632854,24318262,24893570,..,..
+Indonesia,IDN,"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS,49.25902,49.13408,49.55793,48.05356,48.56827,48.78793,49.39896,49.20422,49.17247,..,..
+Indonesia,IDN,"Secondary education, teachers",SE.SEC.TCHR,1640533,1407035,1290585,1451842,1459756,..,1674317,1586484,1636970,..,..
+Indonesia,IDN,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,47.97129822,53.8968811,53.48109818,52.13817978,53.10607147,..,49.16727066,54.65116882,56.35319901,..,..
+Indonesia,IDN,"Secondary education, teachers, female",SE.SEC.TCHR.FE,786985,758348,690219,756964,775219,..,823216,867032,922485,..,..
+Indonesia,IDN,"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,18.73999977,18.19000053,15.07999992,15.59000015,15.38000011,16.62999916,16.07999992,15.27000046,15.77000046,15.05000019,..
+Indonesia,IDN,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,26.64999962,25.89999962,22.95000076,22.88999939,22.35000038,22.92000008,22.47999954,21.45000076,21.70999908,20.48999977,..
+Indonesia,IDN,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,9.880000114,8.300000191,5.53000021,5.210000038,4.960000038,5.440000057,4.949999809,4.320000172,5.309999943,4.380000114,..
+Indonesia,IDN,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,11.55000019,9.680000305,7.03000021,5.849999905,5.400000095,6.239999771,5.449999809,4.550000191,6.039999962,4.739999771,..
+Indonesia,IDN,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,0,..,..,..,..,..
+Indonesia,IDN,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2.96089983,2.95542026,2.9028666,2.96065068,3.11712098,2.99113512,3.08569908,2.86824059,2.87053037,..,..
+Indonesia,IDN,Number of people pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP1.TO,..,..,..,..,..,..,..,..,..,..,..
+Indonesia,IDN,Number of people pushed below the $3.20 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP2.TO,..,..,..,..,..,..,..,..,..,..,..
+Indonesia,IDN,Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.10.TO,..,..,..,..,..,..,..,..,..,..,..
+Indonesia,IDN,Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.25.TO,..,..,..,..,..,..,..,..,..,..,..
+Indonesia,IDN,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,56.98842239,56.9176178,53.16792297,49.32272339,42.51700211,41.38797379,37.98818588,36.01034546,34.85082245,..,..
+Indonesia,IDN,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,33.9,32.6,31.3,30.1,28.9,27.8,26.7,25.7,24.8,23.9,..
+Indonesia,IDN,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,30.4,29.2,28,26.9,25.8,24.8,23.8,22.9,22,21.2,..
+Indonesia,IDN,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,37.2,35.8,34.4,33.1,31.9,30.7,29.5,28.4,27.3,26.4,..
+Indonesia,IDN,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,2.6,2.6,2.5,2.5,2.4,2.4,2.4,2.4,2.4,2.4,..
+Indonesia,IDN,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,1.3,1.3,1.2,1.2,1.2,1.1,1.1,1.1,1.1,1.1,..
+Indonesia,IDN,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,3.9,3.9,3.8,3.7,3.6,3.6,3.7,3.7,3.7,3.7,..
+Indonesia,IDN,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS,63.41999817,63.81000137,64.70999908,64.13999939,64.11000061,63.49000168,63.33000183,64.20999908,64.47000122,65.54000092,63.72000122
+Indonesia,IDN,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,78.11000061,78.87000275,79.87999725,79.26000214,79.26000214,78.69999695,78.01000214,78.26999664,78.41999817,79.30000305,..
+Indonesia,IDN,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,62.84999847,63.47000122,64.40000153,63.86000061,63.93000031,63.56999969,63.45999908,64.16999817,64.66000366,65.72000122,..
+Indonesia,IDN,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,47.26862119,49.63589562,52.03657349,54.47065481,56.93813958,59.4390278,61.97331946,64.54101458,..,..,..
+Indonesia,IDN,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,59.99872953,61.87155317,63.74637929,65.62224477,67.49929746,69.37641292,71.25313269,73.12838737,..,..,..
+Indonesia,IDN,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,72.77270479,73.81942646,74.87338955,75.93459408,77.00304005,78.07872746,79.16165629,80.25182657,..,..,..
+Indonesia,IDN,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,28.82810152,28.52419292,28.27475674,28.03786498,27.76785021,27.45097267,27.23268334,26.9149015,26.55119731,26.21511948,..
+Indonesia,IDN,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,9.775282084,9.641381764,9.621930979,9.652408866,9.654826323,9.589652242,9.607011081,9.465765201,9.224933341,8.976476447,..
+Indonesia,IDN,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,9.38611011,9.278443863,9.283981583,9.338781181,9.36369744,9.316519561,9.349598487,9.212211437,8.967466126,8.713831094,..
+Indonesia,IDN,"Population ages 0-14, female",SP.POP.0014.FE.IN,33904425,33991483,34156002,34340823,34477702,34537962,34704785,34720481,34654540,34609603,..
+Indonesia,IDN,"Population ages 0-14, male",SP.POP.0014.MA.IN,35811789,35926238,36093662,36260547,36366228,36390754,36523466,36508717,36413326,36335225,..
+Indonesia,IDN,"Population ages 0-14, total",SP.POP.0014.TO,69716213,69917419,70249315,70601139,70843840,70928717,71228234,71229180,71067847,70944816,..
+Indonesia,IDN,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,66.20938439,66.43167506,66.6076764,66.77005263,66.95356767,67.16559219,67.2429804,67.40315016,67.59163708,67.73457784,..
+Indonesia,IDN,"Population ages 15-64, female",SP.POP.1564.FE.IN,79466649,80777712,82059471,83338732,84643521,85972293,87130002,88377686,89642490,90824538,..
+Indonesia,IDN,"Population ages 15-64, male",SP.POP.1564.MA.IN,80650294,82057095,83428929,84792562,86174468,87572348,88746856,90001977,91275605,92482552,..
+Indonesia,IDN,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,5358416,5516046,5658819,5802861,5969136,6169739,6449454,6759532,7095983,7451985,..
+Indonesia,IDN,"Population ages 65 and above, total",SP.POP.65UP.TO,12001057,12363985,12714718,13073996,13467194,13909895,14449135,15037043,15677491,16373666,..
+Indonesia,IDN,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,6642643,6847632,7055530,7270876,7497949,7740160,7999663,8277493,8581490,8921665,..
+Indonesia,IDN,Population growth (annual %),SP.POP.GROW,1.337774157,1.347997889,1.351892192,1.340921601,1.310876905,1.267465577,1.219765616,1.175102592,1.133769861,1.100584587,..
+Indonesia,IDN,Population in largest city,EN.URB.LCTY,9625579,9732728,9841221,9950619,10061387,10173388,10286636,10401144,10516927,10638689,..
+Indonesia,IDN,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,30821722,31389108,31972655,32570463,33185536,33817651,34467418,35135475,35822488,36532764,..
+Indonesia,IDN,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.74497986,12.80580689,12.86872388,12.93472396,13.00735529,13.08817434,13.17792434,13.2764108,13.38340741,13.49937638,..
+Indonesia,IDN,Urban population,SP.URB.TOTL,120709130,124016544,127396459,130826016,134287151,137751865,141210511,144652795,148084795,151509724,..
+Indonesia,IDN,Rural population,SP.RUR.TOTL,121125085,121099662,121055954,120980386,120841853,120631391,120343715,119993091,119578640,119115844,..
+Indonesia,IDN,"Population, total",SP.POP.TOTL,241834215,245116206,248452413,251806402,255129004,258383256,261554226,264645886,267663435,270625568,..
+Indonesia,IDN,"Population, male",SP.POP.TOTL.MA.IN,121820499,123499379,125181410,126855970,128509832,130132841,131719776,133270226,134784915,136269762,..
+Indonesia,IDN,"Population, female",SP.POP.TOTL.FE.IN,120013716,121616827,123271003,124950432,126619172,128250415,129834450,131375660,132878520,134355806,..
+Indonesia,IDN,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,13.3,10.9,9.5,7.3,6.2,5.8,5.2,4.5,3.6,2.9,..
+Indonesia,IDN,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,23,..,..,..,21.79999924,..,30.89999962,..,30.60000038,..,..
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,,
+Last Updated: 05/25/2021,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
