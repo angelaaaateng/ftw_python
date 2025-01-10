@@ -1,6 +1,10 @@
 # Batch 10
 
 Instructors: 
+- Amber Teng, Lady Dela Torre, Clowee Licsi, Nicholas Simard
+
+TAs: 
+- Maxine Cervantes, Jinia Gonzales
 
 Link to Day 7 Machine Learning Slides: https://docs.google.com/presentation/d/1ihJNbj8r6DJSWGJvppFuVaKkehsUOivKzCk12TlVHzQ/edit?usp=sharing
 
