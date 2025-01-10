@@ -13,5 +13,5 @@ Link to Day 7 Machine Learning Slides: https://docs.google.com/presentation/d/1i
 
 
 ### Hands-on Activities
-1. Ask A Manager Dataset
-2. Titanic Dataset (if time permits)
+1. Ask A Manager Dataset (Group Project)
+2. Titanic Dataset (Walkthrough)
